@@ -1,0 +1,8 @@
+name = "simple"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "Minimal HTML/CSS blog theme for Hugo."
+min_version = "0.120.0"
+
+[author]
+  name = "Rasa Parayana"

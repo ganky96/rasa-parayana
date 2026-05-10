@@ -1,0 +1,24 @@
+baseURL = 'https://rasa-parayana.art/'
+languageCode = 'en-us'
+title = 'Rasa Parayana'
+theme = 'simple'
+
+[pagination]
+pagerSize = 10
+
+[menu]
+  [[menu.header]]
+    name = 'posts'
+    weight = 10
+    url = '/post/'
+
+[params]
+  description = 'Essays on Hindu thought and practice.'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ['HTML', 'RSS']
