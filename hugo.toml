@@ -38,6 +38,7 @@ pagerSize = 10
   enableSharingButtons  = false
   enableReadingTime     = true
   enableGlobalLanguageMenu = false
+  customCSS            = ['css/home-intro.css']
 
   [params.logo]
     logoText     = 'Rasa Parayana'
