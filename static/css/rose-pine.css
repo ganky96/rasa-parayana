@@ -1,0 +1,262 @@
+/**
+ * Rosé Pine — https://github.com/rose-pine/palette
+ * Loads after theme CSS; uses !important where the theme sets concrete colours.
+ */
+
+/* --- CSS variables (Dawn light / Main dark) --- */
+:root {
+  --rp-base: #faf4ed;
+  --rp-surface: #fffaf3;
+  --rp-overlay: #f2e9e1;
+  --rp-text: #575279;
+  --rp-muted: #9893a5;
+  --rp-border: #dbd0c7;
+  --rp-love: #b4637a;
+  --rp-iris: #907aa9;
+  --rp-gold: #ea9d34;
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme]) {
+    --rp-base: #191724;
+    --rp-surface: #1f1d2e;
+    --rp-overlay: #26233a;
+    --rp-text: #e0def4;
+    --rp-muted: #6e6a86;
+    --rp-border: #403d52;
+    --rp-love: #eb6f92;
+    --rp-iris: #c4a7e7;
+    --rp-gold: #f6c177;
+  }
+}
+
+html[data-theme="light"] {
+  --rp-base: #faf4ed;
+  --rp-surface: #fffaf3;
+  --rp-overlay: #f2e9e1;
+  --rp-text: #575279;
+  --rp-muted: #9893a5;
+  --rp-border: #dbd0c7;
+  --rp-love: #b4637a;
+  --rp-iris: #907aa9;
+  --rp-gold: #ea9d34;
+}
+
+html[data-theme="dark"] {
+  --rp-base: #191724;
+  --rp-surface: #1f1d2e;
+  --rp-overlay: #26233a;
+  --rp-text: #e0def4;
+  --rp-muted: #6e6a86;
+  --rp-border: #403d52;
+  --rp-love: #eb6f92;
+  --rp-iris: #c4a7e7;
+  --rp-gold: #f6c177;
+}
+
+/* --- Page shell --- */
+html[data-theme="dark"] body,
+[data-theme="dark"] body {
+  background-color: #191724 !important;
+  color: #e0def4 !important;
+}
+
+html[data-theme="light"] body,
+[data-theme="light"] body {
+  background-color: #faf4ed !important;
+  color: #575279 !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme]) body {
+    background-color: #191724 !important;
+    color: #e0def4 !important;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  html:not([data-theme]) body {
+    background-color: #faf4ed !important;
+    color: #575279 !important;
+  }
+}
+
+.header {
+  background: var(--rp-surface) !important;
+}
+
+.menu,
+.submenu {
+  background: var(--rp-surface) !important;
+}
+
+.submenu .dropdown-content {
+  background: var(--rp-surface) !important;
+}
+
+.submenu .dropdown-content a:hover {
+  background: var(--rp-overlay) !important;
+}
+
+.footer,
+.footer__content {
+  color: var(--rp-muted) !important;
+}
+
+/* --- Links in main (iris); list titles & inline links --- */
+main a,
+main a:visited {
+  color: var(--rp-iris) !important;
+}
+
+main a:hover,
+main a:focus {
+  color: var(--rp-love) !important;
+}
+
+.pagination__buttons a,
+.pagination__buttons a:visited {
+  color: var(--rp-iris) !important;
+}
+
+/* --- Headings in main (love) — after main a so title links stay love --- */
+main h1,
+main h2,
+main h3,
+main h4,
+main h5,
+main h6,
+.post-title,
+.home-recent-heading {
+  color: var(--rp-love) !important;
+}
+
+.post-title a,
+.post-title a:visited,
+h1.post-title a,
+h1.post-title a:visited {
+  color: var(--rp-love) !important;
+}
+
+.post-title a:hover,
+h1.post-title a:hover {
+  color: var(--rp-gold) !important;
+}
+
+/* --- Home epigraph (gold) --- */
+.home-intro,
+.home-intro p {
+  color: var(--rp-gold) !important;
+}
+
+/* --- Inline emphasis --- */
+main em,
+main i {
+  color: #ebbcba !important;
+}
+
+html[data-theme="light"] main em,
+html[data-theme="light"] main i {
+  color: #d7827e !important;
+}
+
+main strong {
+  color: var(--rp-love) !important;
+}
+
+/* --- Code & UI chrome --- */
+pre {
+  background-color: var(--rp-overlay) !important;
+}
+
+*:not(pre) > code {
+  background: var(--rp-overlay) !important;
+  color: var(--rp-text) !important;
+}
+
+.button,
+button,
+a.button,
+.pagination .button,
+.code-toolbar .toolbar-item a {
+  background: var(--rp-overlay) !important;
+  color: var(--rp-text) !important;
+}
+
+.button.outline,
+a.button.outline {
+  border-color: var(--rp-border) !important;
+  background: transparent !important;
+}
+
+.posts:not(:last-of-type) {
+  border-bottom-color: var(--rp-border) !important;
+}
+
+.posts .post-item {
+  border-bottom-color: var(--rp-border) !important;
+}
+
+.post-excerpt {
+  color: var(--rp-muted) !important;
+}
+
+blockquote {
+  border-left-color: #31748f !important;
+}
+
+.post-info a:hover {
+  border-bottom-color: #9ccfd8 !important;
+}
+
+.pagination__title-h {
+  background: var(--rp-base) !important;
+  color: var(--rp-muted) !important;
+}
+
+.pagination__title hr {
+  border-color: var(--rp-border) !important;
+}
+
+.logo__cursor {
+  background: var(--rp-love) !important;
+}
+
+.tag a,
+.post .tag a {
+  color: #9ccfd8 !important;
+}
+
+.tag a:hover,
+.post .tag a:hover {
+  color: #31748f !important;
+}
+
+html[data-theme="light"] .tag a,
+html[data-theme="light"] .post .tag a {
+  color: #56949f !important;
+}
+
+hr {
+  border-color: var(--rp-border) !important;
+}
+
+table td,
+table th {
+  border-color: var(--rp-border) !important;
+}
+
+/* Header logo wordmark: body text, not link iris */
+.header .logo,
+.header .logo a {
+  color: var(--rp-text) !important;
+}
+
+.header .menu a,
+.header .menu a:visited {
+  color: var(--rp-text) !important;
+}
+
+.header .menu a:hover {
+  color: var(--rp-love) !important;
+}
