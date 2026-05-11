@@ -1,19 +1,56 @@
 baseURL = 'https://rasa-parayana.art/'
 languageCode = 'en-us'
 title = 'Rasa Parayana'
-theme = 'simple'
+copyright = 'Essays on Hindu thought and practice.'
+theme = 'hello-friend-ng'
+defaultContentLanguage = 'en'
+
+enableEmoji = true
 
 [pagination]
 pagerSize = 10
 
 [menu]
-  [[menu.header]]
-    name = 'posts'
-    weight = 10
-    url = '/post/'
+  [[menu.main]]
+    identifier = 'posts'
+    name       = 'Posts'
+    url        = '/post/'
+    weight     = 10
+
+[taxonomies]
+  tag      = 'tags'
+  category = 'categories'
 
 [params]
-  description = 'Essays on Hindu thought and practice.'
+  dateform             = 'Jan 2, 2006'
+  dateformShort        = 'Jan 2'
+  dateformNum          = '2006-01-02'
+  dateformNumTime      = '2006-01-02 15:04'
+  description          = 'Essays on Hindu thought and practice.'
+  keywords             = ''
+  images               = ['']
+  homeSubtitle         = 'Essays on Hindu thought and practice.'
+  subtitle             = 'Essays on Hindu thought and practice.'
+  themeColor           = '#1b1c1d'
+  disableReadOtherPosts = false
+  readOtherPosts       = 'Read other posts'
+  enableThemeToggle     = true
+  enableSharingButtons  = false
+  enableReadingTime     = true
+  enableGlobalLanguageMenu = false
+
+  [params.logo]
+    logoText     = 'Rasa Parayana'
+    logoHomeLink = '/'
+
+  [params.author]
+    name = 'Rasa Parayana'
+
+  [params.footer]
+    trademark = 2026
+    rss       = true
+    copyright = true
+    author    = false
 
 [markup]
   [markup.goldmark]
