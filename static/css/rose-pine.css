@@ -143,10 +143,18 @@ h1.post-title a:hover {
   color: var(--rp-gold) !important;
 }
 
-/* --- Home epigraph (gold) --- */
+/* --- Home epigraph: same as body text (no gold / iris “link” look) --- */
 .home-intro,
 .home-intro p {
-  color: var(--rp-gold) !important;
+  color: var(--rp-text) !important;
+}
+
+.home-intro a,
+.home-intro a:visited,
+.home-intro a:hover,
+.home-intro a:focus {
+  color: var(--rp-text) !important;
+  text-decoration: none !important;
 }
 
 /* --- Inline emphasis --- */

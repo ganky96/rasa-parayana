@@ -1,4 +1,4 @@
-/* Home epigraph: smaller type, cyan accent (same family as theme blockquotes #3eb0ef). */
+/* Home epigraph: monospace only; colour comes from rose-pine.css (body text, no link styling). */
 .home-intro {
   font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
   font-size: 0.875rem;
@@ -7,7 +7,9 @@
   max-width: 34em;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 1.5rem;
+  margin-top: 2rem;
+  padding-top: 3rem;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .home-intro p {
@@ -22,22 +24,15 @@
   margin-bottom: 0;
 }
 
-@media (prefers-color-scheme: light) {
-  .home-intro {
-    color: #2186b3;
-  }
+/* Undo link / focus treatment if Markdown ever emits anchors here */
+.home-intro a,
+.home-intro a:visited,
+.home-intro a:hover,
+.home-intro a:focus {
+  color: inherit !important;
+  text-decoration: none !important;
 }
 
-@media (prefers-color-scheme: dark) {
-  .home-intro {
-    color: #5ecaff;
-  }
-}
-
-html[data-theme="light"] .home-intro {
-  color: #2186b3;
-}
-
-html[data-theme="dark"] .home-intro {
-  color: #5ecaff;
+.home-intro a:focus {
+  outline: none;
 }
