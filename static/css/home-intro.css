@@ -1,0 +1,43 @@
+/* Home epigraph: smaller type, cyan accent (same family as theme blockquotes #3eb0ef). */
+.home-intro {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.875rem;
+  line-height: 1.65;
+  letter-spacing: 0.03em;
+  max-width: 34em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1.5rem;
+}
+
+.home-intro p {
+  margin: 0.65em 0;
+}
+
+.home-intro p:first-child {
+  margin-top: 0;
+}
+
+.home-intro p:last-child {
+  margin-bottom: 0;
+}
+
+@media (prefers-color-scheme: light) {
+  .home-intro {
+    color: #2186b3;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .home-intro {
+    color: #5ecaff;
+  }
+}
+
+html[data-theme="light"] .home-intro {
+  color: #2186b3;
+}
+
+html[data-theme="dark"] .home-intro {
+  color: #5ecaff;
+}
