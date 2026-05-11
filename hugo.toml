@@ -1,7 +1,7 @@
 baseURL = 'https://rasa-parayana.art/'
 languageCode = 'en-us'
 title = 'Rasa Parayana'
-copyright = 'Essays on Hindu thought and practice.'
+copyright = 'Essays on Gaudiya Vaishnava thought and practice.'
 theme = 'hello-friend-ng'
 defaultContentLanguage = 'en'
 
@@ -26,11 +26,11 @@ pagerSize = 10
   dateformShort        = 'Jan 2'
   dateformNum          = '2006-01-02'
   dateformNumTime      = '2006-01-02 15:04'
-  description          = 'Essays on Hindu thought and practice.'
+  description          = 'Essays on Gaudiya Vaishnava thought and practice.'
   keywords             = ''
   images               = ['']
-  homeSubtitle         = 'Essays on Hindu thought and practice.'
-  subtitle             = 'Essays on Hindu thought and practice.'
+  homeSubtitle         = 'Essays on Gaudiya Vaishnava thought and practice.'
+  subtitle             = 'Essays on Gaudiya Vaishnava thought and practice.'
   themeColor           = '#1b1c1d'
   disableReadOtherPosts = false
   readOtherPosts       = 'Read other posts'
