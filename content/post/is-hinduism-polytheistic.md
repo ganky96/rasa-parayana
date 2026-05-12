@@ -6,60 +6,92 @@ description = "A short note on devas, Brahman, and why labels like polytheism of
 tags = ["dharma", "philosophy"]
 +++
 
-The average person in the west, and perhaps also in India, will tell you that Hinduism is a polytheistic religion. And who can blame them? For what it's worth, it is high unlikely that 10 hindus in one room will give a consistent answer for who is god. 
-
-Recently, I've been coming across some passionate Hindus on social media who are convinced that Vaishnava institutions such as ISKCON are "Abrahamic" Hinduism for preaching monotheism. They claim that Hinduism in allowing plurality of thought and traditions was also inherently polytheistic, and that any assertion of a supreme deity was equivalent to an imperial, Abrahamic imposition on Hinduism, almost akin to many of the other vices of Western or Middle Eastern imperialism. 
+Recently, I've been coming across some passionate Hindus on social media who are convinced that Vaishnava institutions such as ISKCON are teaching an "Abrahamic" form of Hinduism, largely due to their emphasis on monotheism. They claim that Hinduism, in allowing plurality of beliefs, was also inherently polytheistic, and that any assertion of a supreme deity was equivalent to an imperial, Abrahamic imposition on Hinduism. Their words carry an air of indignance, resignation, and of wanting to check the influence of such corrupting ideas.
 
 I want to reproduce some of what I've seen below:
 
-> ISKCON cult of Krishna worshippers basically turned into a monotheistic Abrahamic religion 😹😹😹😭
+> "ISKCON cult of Krishna worshippers basically turned into a monotheistic Abrahamic religion 😹😹😹😭"
 
-> However, many Hindus nowadays are turning Hinduism into a Monotheistic faith, that resembles the likes of Abrahamic Faiths.
+> "However, many Hindus nowadays are turning Hinduism into a Monotheistic faith, that resembles the likes of Abrahamic Faiths."
 
-> off all labels, monotheism is the least fitting on Hinduism(monotheism as defined by abrahamic standards). hindus who are adamant to be considered monotheist are insecure and illiterate on hinduism.
+> "Of all labels, monotheism is the least fitting on Hinduism(monotheism as defined by abrahamic standards). hindus who are adamant to be considered monotheist are insecure and illiterate on hinduism."
 
 These are, of course, barely a drop in the ocean of what seems to be a widespread conviction amongst many Hindus. 
 
-For the sake of keeping this article short, I want to define my terms and state that by Hindu, I mean religious and spiritual traditions that are based on Vedantic texts, such as that four Vedas, the Upanishads, the Puranas and the Itihasas (histories). Going forward, I'll call these Vedantic religions, as my dislike for the term "Hindu" isn't warranted in this article. 
+For the sake of keeping this article short, I want to define my terms and state that by "Hindu" I mean the religious and spiritual traditions that are based on Vedantic texts, such as that four Vedas, the Upanishads, the Puranas and the Itihasas (histories). Going forward, I'll call these Vedantic religions, as my dislike for the term "Hindu" warrants another article. 
 
-Far from the claim that monotheism is an Abrahamic influence on Vedantic traditions, I would argue that monotheism is not only far more ancient than the Abrahamic religions, but also far more developed than the Abrahamic religions. In another article perhaps I'll discuss how even pantheism, polytheism, etc. are also far more developed in Vedantic traditions than in other polytheistic, pantheistic traditions. 
+Far from the claim that monotheism is an Abrahamic influence on Vedantic traditions, I would argue that Vedantic-monotheism is not only far more ancient than the Abrahamic religions, but also far more developed than the Abrahamic religions. In another article perhaps I'll discuss how even pantheism, polytheism, etc. are also far more developed in Vedantic traditions than in other polytheistic, pantheistic traditions. 
 
-First, I want to provide evidence of a Supreme God (capital G) in the presence of other gods (lowercase g) across various Vedantic texts. Secondly, I want to showcase the depth of philosophy in the terms used to describe the Supreme, in such a way that at least mirrors the depth of theology in Abrahamic religions. Lastly, I want to demonstrate the sheer aesthetic, beauty and depth in which Vedantic, specifically Vaishnava, traditions take this monotheism in a way that is unparalleled in all of history. 
+First, I want to explain what it means for a God to truly by Supreme. Then, I'll provide evidence of such a Supreme God (capital G) in the presence of other gods (lowercase g) across various Vedantic texts. Thirdly, I want to showcase the purposeful use of terminology and the depth of theology in the terms used to describe the Supreme in Vedantic texts. Lastly, I want to demonstrate how Vedantic monotheism, specifically Vaishnava monotheism, is unparalleled in all of history, going far beyond what any other tradition has to offer. No other religious system, including the Abrahamic traditions, come close to the sheer aesthetic beauty and depth to which the Vaishnava traditions develop monotheism. 
 
 ### What does it mean for a God to be Supreme?
-A God is Supreme when He is the source of everything, including existence itself. He is not simply the intelligent designer of complex phenomena, but the reason why existence exists at all. In other words, if God doesn't exist, nothing can exist. 
+I often ask people if they believe in God. Some say they do, and to them I ask, "why?" Their response is often along the lines of, "There's so much complexity and beauty in the world, how can someone not have designed all of it?"
 
-This is well expressed in the arguments from contingency, as found across traditions in the world who believe in a Supreme God, in its various forms:
+There's no good or bad argument for belief in God (provided the belief is helpful). However, an intelligent designer is not a Supreme God, since the presence of a designer only entails that the designer exist, not that he be a Supreme Godhead, or even just more complex than his design. A Supreme Godhead has unique characteristcs that cannot be attributed to any other being.
 
-- If something exists, say an iPhone or a table, is there anything about that object that necessitates its own existence?
+A God is Supreme when He is the source of everything, including existence itself. He is not simply the intelligent designer of complex phenomena, but the reason why existence exists at all. In other words, if God doesn't exist, nothing can exist. He is the cause of all causes, the unmoved mover, and all that exists _is_ in one sense that Supreme God, since nothing apart from Him exists. One may ask why a male gender is ascribed to such a being, but we can discuss this in another article.
+
+This idea is well expressed in the arguments for the existence of God that arise from contemplations of contingency, i.e. dependence. Such arguments are found across traditions in the world who believe in a Supreme God, in its various forms. A quick summary of such an argument is:
+- If something exists, say an iPhone or a table, is there anything about that object that necessitates its own existence? In other words, is it a necessity that the iPhone exist the way it does, or is it also possible for the iPhone to not exist?
 - We would argue that there is nothing about an iphone that necessitates its own existence. Rather we know for a fact that it was created in a factory, and thus its existence depended upon the factory, i.e. it has contingent existence
 - Does the factory have any necessary existence? Clearly, it does not.
 - In this way we can work backwards and conclude that there is nothing in this world that necessarily explains why it must exist the way it is. 
-- However if this were to be accepted, then nothing at all should exist!
-- But since contingent objects do exist, there must exist something that doesn't depend on something else for its existence
+- However if this were to be accepted, then nothing at all should exist! We'd form an infinite chain of dependent objects, and infinites don't end. If such an infinite dependency were to exist, then nothing in the world would exist.
+- But since contingent objects, such as iPhones and this universe, do exist, there must exist something that doesn't depend on something else for its existence
+- This "thing" is the original cause, that which necessarily must exist.
 
-Arguments from contingency do well to point to an original, necessary being that doesn't depend on anything else for its existence. However, they cannot be used to argue for what the nature of that necessary being must be.
+Arguments from contingency do well to point to an original, necessary being that doesn't depend on anything else for its existence. However, they cannot be used to argue for what the nature of that necessary being must be. Historically, many arguments have been put forth to convert a necessary being into a God with a personality, or further a Christian God, a Muslim God, etc. For instance:
+- if the necessary "thing" is the source of all that exists, it must have personality, since the creation has personality
+- it must also have supreme intelligence
+- since nothing else exists, it must have supreme agency, and thus agency entails a mind, consciousness, etc.
 
-Nevertheless, a Supreme God fits perfectly as a necessary being, as God by definition is the being due to whom existence itself exists, and hence is the cause of the existence of all other things. 
+Nevertheless, a Supreme God fits perfectly as a necessary being, as God by definition is the being due to whom existence itself exists, and hence is the cause of the existence of all other things. While it may be difficult to prove ex-nihilo that a Supreme God must exist using argumentation alone, revelation of the existence of a Supreme God who is the cause of all causes easily solves this issue.
 
 ### Does Scripture Speak of a Supreme God?
-Unresearched Hindus may find it borderline conspiratorial that all of the major Vedantic texts speak very clearly and consistently about a Supreme God. 
+Ignorant and unresearched Hindus may find it borderline conspiratorial that all of the major Vedantic texts speak very clearly and consistently about a Supreme God. 
 
-What is especially interesting is that the Vedas define the Supreme Lord with very distinct and consistent features:
+What is especially interesting is that the Vedantic traditions define the Supreme Lord with very distinct and consistent features:
+- The Lord is referred to as janmadi asya yataha (He from whom the universe arises, within whom it is maintained, and into whom it is destroyed)
 - the cause of all causes (sarva karana karanam)
-- He due to whom all of existence exists
-- He who creates, maintains and destroys all that exists, and yet remains throughout (janmadi asya yatah)
-- He who is the source of all that exists
+- He due to whom all of existence exists (Vishnu Sahasranam)
+- He who creates, maintains and destroys all that exists, and yet remains throughout (yah tasya pare 'bhiviraja te vibhuh)
+- He who is the source of all that exists (aham sarvasya prabhavah mattah sarvam pravartate)
 
-#### Rg Veda: 
+I want to stress that there are so many such proclamations that if I were to recite all of them, it would take me at least 3 hours. There countless verses across shastra that describe very precisely the existence and characteristics of the Supreme Lord.
 
-om tad vishnu paramam padam sada pashyanti surayah
+#### Rg Veda (1.22.20): 
 
-#### Purusha Sukta 
+oṃ tad viṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ |
+divīva cakṣurātatam ||
 
-om sahasra-shirsha purasha ... (purusha sukta)
+**Translation**
+The wise and enlightened seers constantly behold that supreme abode of Vishnu, like an eye fixed steadily in the heavens.
 
-Śvetāśvatara Upaniṣad 6.7–8:
+Although the import of this text is quite deep, poetic and interesting, I won't elaborate too much here since the meaning of the text is very clear as far as our topic at hand is concerned.
+
+#### Puruṣa Sukta 
+
+sahasra-śīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt |
+sa bhūmiṃ viśvato vṛtvātyatiṣṭhad-daśāṅgulam ||
+
+**Translation**
+The Purusha has a thousand heads, a thousand eyes, and a thousand feet. Pervading the entire universe on all sides, He yet exists beyond it by a distance of ten fingers.
+
+In Vedic Sanskrit, sahasra literally means "thousand," but it is used here to represent infinity or limitlessness. It suggests that all heads, eyes, and feet in existence actually belong to the one Cosmic Being. The verse establishes two crucial aspects of the Divine. By "pervading the earth," the Purusha is immanent (present in everything). By "standing beyond it by ten fingers," He is transcendent (existing beyond the physical world).
+
+Daśāṅgulam is a famous symbolic measurement. It often represents the heart (the seat of the soul) or simply signifies that no matter how vast the universe is, the Divine source is always greater and remains distinct from its creation.
+
+Even Western Academia (who hold non-traditional views on the development of Vedic thought) contend that this is one of the oldest and earliest signs of monotheism in the Vedic traditions. The puruṣa-sukta is found in all of the Vedas, and the Rg Veda is dated conservatively to at least 1500 BCE, far preceding both CHristianity, Islam and other forms of developed religious thought as far as documented evidence goes. 
+
+Further to this, in presenting the oneness and difference of the Lord and the world, it is presenting a very advanced understanding of monotheism: theism can be graded as follows:
+- there is no god (athiesm)
+- there are some gods (polytheism)
+- there is one Supreme only (monotheism)
+- there is only God (oneness-and-difference)
+
+The puruṣa-sukta thus mirrors the teachings of Krishna in the Bhagavad Gita (9.4-5). 
+
+#### Śvetāśvatara Upaniṣad 6.7–8:
 
 tam īśvarāṇāṁ paramaṁ maheśvaraṁ
 taṁ devatānāṁ paramaṁ ca daivatam
