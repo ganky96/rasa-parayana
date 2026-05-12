@@ -89,7 +89,7 @@ Further to this, in presenting the oneness and difference of the Lord and the wo
 - there is one Supreme only (monotheism)
 - there is only God (oneness-and-difference)
 
-The puruṣa-sukta thus mirrors the teachings of Krishna in the Bhagavad Gita (9.4-5). 
+The puruṣa-sukta thus mirrors the teachings of Krishna in the Bhagavad Gita (9.4-5) by showing how the Lord is both in this world, beyond this world, and also different from the world. 
 
 #### Śvetāśvatara Upaniṣad 6.7–8:
 
