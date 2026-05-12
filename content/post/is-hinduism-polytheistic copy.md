@@ -1,5 +1,5 @@
 +++
-title = "Is Hinduism polytheistic?"
+title = "Is Hinduism polytheistic? (1/3)"
 date = 2026-05-10
 draft = false
 description = "A short note on devas, Brahman, and why labels like polytheism often miss the point."
@@ -61,7 +61,7 @@ I want to stress that there are so many such proclamations that if I were to rec
 
 #### Rg Veda (1.22.20): 
 
-oṃ tad viṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ |
+oṃ tad viṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ | \
 divīva cakṣurātatam ||
 
 **Translation**
@@ -71,8 +71,8 @@ Although the import of this text is quite deep, poetic and interesting, I won't 
 
 #### Puruṣa Sukta 
 
-sahasra-śīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt |
-sa bhūmiṃ viśvato vṛtvātyatiṣṭhad-daśāṅgulam ||
+sahasra-śīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt | \
+sa bhūmiṃ viśvato vṛtvātyatiṣṭhad-daśāṅgulam || 
 
 **Translation**
 The Purusha has a thousand heads, a thousand eyes, and a thousand feet. Pervading the entire universe on all sides, He yet exists beyond it by a distance of ten fingers.
@@ -93,15 +93,14 @@ The puruṣa-sukta thus mirrors the teachings of Krishna in the Bhagavad Gita (9
 
 #### Śvetāśvatara Upaniṣad 6.7–8:
 
-tam īśvarāṇāṁ paramaṁ maheśvaraṁ
-taṁ devatānāṁ paramaṁ ca daivatam
-patiṁ patīnāṁ paramaṁ parastād
-vidāma devaṁ bhuvaneśam īḍyam
-
-na tasya kāryaṁ karaṇaṁ ca vidyate
-na tat-samaś cābhyadhikaś ca dṛśyate
-parāsya śaktir vividhaiva śrūyate
-svābhāvikī jñāna-bala-kriyā ca
+tam īśvarāṇāṁ paramaṁ maheśvaraṁ \
+taṁ devatānāṁ paramaṁ ca daivatam \
+patiṁ patīnāṁ paramaṁ parastād \
+vidāma devaṁ bhuvaneśam īḍyam \
+na tasya kāryaṁ karaṇaṁ ca vidyate \
+na tat-samaś cābhyadhikaś ca dṛśyate \
+parāsya śaktir vividhaiva śrūyate \
+svābhāvikī jñāna-bala-kriyā ca 
 
 The Supreme Lord is the controller of all other controllers, and He is the greatest of all the diverse planetary leaders. Everyone is under His control. All entities are delegated with particular power only by the Supreme Lord; they are not supreme themselves. He is also worshipable by all demigods and is the supreme director of all directors. Therefore, He is transcendental to all kinds of material leaders and controllers and is worshipable by all. There is no one greater than Him, and He is the supreme cause of all causes.
 
@@ -110,87 +109,63 @@ The Supreme Lord is the controller of all other controllers, and He is the great
 
 #### Ishopanishad
 
-oṁ pūrṇam adaḥ pūrṇam idaṁ
-pūrṇāt pūrṇam udacyate
-pūrṇasya pūrṇam ādāya
+oṁ pūrṇam adaḥ pūrṇam idaṁ\
+pūrṇāt pūrṇam udacyate\
+pūrṇasya pūrṇam ādāya\
 pūrṇam evāvaśiṣyate
 
-The Personality of Godhead is perfect and complete, and because He is completely perfect, all emanations from Him, such as this phenomenal world, are perfectly equipped as complete wholes. Whatever is produced of the Complete Whole is also complete in itself. Because He is the Complete Whole, even though so many complete units emanate from Him, He remains the complete balance. (Invocation of the Ishopanishad)
+**Translation** The Personality of Godhead is perfect and complete, and because He is completely perfect, all emanations from Him, such as this phenomenal world, are perfectly equipped as complete wholes. Whatever is produced of the Complete Whole is also complete in itself. Because He is the Complete Whole, even though so many complete units emanate from Him, He remains the complete balance. (Invocation of the Ishopanishad)
 
-īśāvāsyam idaḿ sarvaṁ
-yat kiñca jagatyāṁ jagat
-tena tyaktena bhuñjīthā
+Often celebrated for being one of the first definitions in history of infinity, the same Hindus who decry genuine expressions of Vedantic-monotheism as "Abrahamic" are the same morons who rejoice at the great of their supposed culture in having made such great advancements in "mathematics". In reality, of course, the Ishopanishad (literally means sitting near the Lord) is not a textbook on mathematics or philosophy, but rather a beautiful instruction on how to know and come closer to the Supreme Lord of all that is. This Supreme Lord is glorified as purṇa, such that we may reflect on his Completeness as the source while receiving the upcoming mantras in the Ishopanishad:
+
+īśāvāsyam idaḿ sarvaṁ\
+yat kiñca jagatyāṁ jagat\
+tena tyaktena bhuñjīthā\
 mā gṛdhaḥ kasya svid dhanam
 
-Everything animate or inanimate that is within the universe is controlled and owned by the Lord. One should therefore accept only those things necessary for himself, which are set aside as his quota, and one should not accept other things, knowing well to whom they belong. (Ishopanishad Mantra 1)
+**Translation** Everything animate or inanimate that is within the universe is controlled and owned by the Lord. One should therefore accept only those thing**s necessary for himself, which are set aside as his quota, and one should not accept other things, knowing well to whom they belong. (Ishopanishad Mantra 1)
+
+The depth of this verse relies on the īśa being the Supreme, otherwise the remaining assertion doesn't work. Everything animate and inanimate _cannot_ be under the control of a non-Supreme entity, since that entity would be a part of the set of animate and inanimate entities. 
 
 #### Bhagavad Gita
 
 There are too many texts in the Gita that showcase the absolute Supremacy of Krishna. Hence I will only quote a few here:
 
-BG 10.8
-ahaṁ sarvasya prabhavo
-mattaḥ sarvaṁ pravartate
-iti matvā bhajante māṁ
-budhā bhāva-samanvitāḥ
+BG 10.8\
+ahaṁ sarvasya prabhavo\
+mattaḥ sarvaṁ pravartate\
+iti matvā bhajante māṁ\
+budhā bhāva-samanvitāḥ\
 
 I am the source of all spiritual and material worlds. Everything emanates from Me. The wise who perfectly know this engage in My devotional service and worship Me with all their hearts.
 
 In fact, since we are quoting Bhaktivedanta Swami's translations here, let me also quote his commentary to the above text, where he quotes a galaxy of texts from various Vedas and Upanishads to establish the above conclusion:
 
 > In the Atharva Veda (Gopāla-tāpanī Upaniṣad 1.24) it is said, yo brahmāṇaṁ vidadhāti pūrvaṁ yo vai vedāṁś ca gāpayati sma kṛṣṇaḥ: “It was Kṛṣṇa who in the beginning instructed Brahmā in Vedic knowledge and who disseminated Vedic knowledge in the past.” Then again the Nārāyaṇa Upaniṣad (1) says, atha puruṣo ha vai nārāyaṇo ’kāmayata prajāḥ sṛjeyeti: “Then the Supreme Personality Nārāyaṇa desired to create living entities.” The Upaniṣad continues, nārāyaṇād brahmā jāyate, nārāyaṇād prajāpatiḥ prajāyate, nārāyaṇād indro jāyate, nārāyaṇād aṣṭau vasavo jāyante, nārāyaṇād ekādaśa rudrā jāyante, nārāyaṇād dvādaśādityāḥ: “From Nārāyaṇa, Brahmā is born, and from Nārāyaṇa the patriarchs are also born. From Nārāyaṇa, Indra is born, from Nārāyaṇa the eight Vasus are born, from Nārāyaṇa the eleven Rudras are born, from Nārāyaṇa the twelve Ādityas are born.” This Nārāyaṇa is an expansion of Kṛṣṇa.
-
+>
 > It is said in the same Vedas, brahmaṇyo devakī-putraḥ: “The son of Devakī, Kṛṣṇa, is the Supreme Personality.” (Nārāyaṇa Upaniṣad 4) Then it is said, eko vai nārāyaṇa āsīn na brahmā neśāno nāpo nāgni-somau neme dyāv-āpṛthivī na nakṣatrāṇi na sūryaḥ: “In the beginning of the creation there was only the Supreme Personality Nārāyaṇa. There was no Brahmā, no Śiva, no water, no fire, no moon, no heaven and earth, no stars in the sky, no sun.” (Mahā Upaniṣad 1.2) In the Mahā Upaniṣad it is also said that Lord Śiva was born from the forehead of the Supreme Lord. Thus the Vedas say that it is the Supreme Lord, the creator of Brahmā and Śiva, who is to be worshiped.
-
+>
 > In the Mokṣa-dharma section of the Mahābhārata, Kṛṣṇa also says,
-
+>
 > prajāpatiṁ ca rudraṁ cāpy
 > aham eva sṛjāmi vai
 > tau hi māṁ na vijānīto
 > mama māyā-vimohitau
-
+>
 > “The patriarchs, Śiva and others are created by Me, though they do not know that they are created by Me because they are deluded by My illusory energy.” In the Varāha Purāṇa it is also said,
-
+>
 > nārāyaṇaḥ paro devas
 > tasmāj jātaś caturmukhaḥ
 > tasmād rudro ’bhavad devaḥ
 > sa ca sarva-jñatāṁ gataḥ
-
+>
 > “Nārāyaṇa is the Supreme Personality of Godhead, and from Him Brahmā was born, from whom Śiva was born.”
-
+>
 > Lord Kṛṣṇa is the source of all generations, and He is called the most efficient cause of everything. He says, “Because everything is born of Me, I am the original source of all. Everything is under Me; no one is above Me.” There is no supreme controller other than Kṛṣṇa. One who understands Kṛṣṇa in such a way from a bona fide spiritual master, with references from Vedic literature, engages all his energy in Kṛṣṇa consciousness and becomes a truly learned man. In comparison to him, all others, who do not know Kṛṣṇa properly, are but fools. Only a fool would consider Kṛṣṇa to be an ordinary man.
 
 #### Vishnu Sahasranam
 
-The entirety of the Vishnu Sahasranam is centered on Vishnu being the Supreme. 
+The entirety of the Vishnu Sahasranam is centered on Vishnu being the Supreme. Sri Bhakti Vikasa Swami has a large and elaborate YouTube series on the Vishnu Sahasranama names, in which he describes what each name means.
 
 ### How deep was the understanding of a Supreme God?
-
-THe use of the words Sat Chit Ananda clearly defined what was the defining feature of divinity, in a way that captures the essence of what makes divinity the source of all that is in this world. 
-
-Sat refers to the cause of all causes, and basis of all existence. 
-
-Chit refers to the source of all consiousness and awareness, the lens through which all of reality is perceptible to the moving and the non-moving.
-
-Ananda is the fullness of experience, as is sought by living entities and completely experienced by the Supreme. 
-
-### Vaishnavism provides the highest conception of Monotheistic theology
-
-All other descriptions of a Supreme Lord are lost in His Grandeur, and in his inconceivable relationship with the temporary mortal world.
-
-namāmīśvaraṁ sac-cid-ānanda-rūpaṁ 
-lasat-kuṇḍalaṁ gokule bhrājamanam 
-yaśodā-bhiyolūkhalād dhāvamānaṁ 
-parāmṛṣṭam atyantato drutya gopyā
-rudantaṁ muhur netra-yugmaṁ mṛjantam 
-karāmbhoja-yugmena sātaṅka-netram 
-muhuḥ śvāsa-kampa-trirekhāṅka-kaṇṭha- 
-sthita-graivaṁ dāmodaraṁ bhakti-baddham
-
-"I offer my humble obeisances unto the Supreme Controller, whose very form is composed of eternal existence, absolute knowledge, and limitless bliss (sac-cid-ānanda). Though He is the Prime Cause—the necessary reality that allows all contingent things to be—He is seen here as a child in Gokula, His golden earrings swinging against His cheeks as He shines with radiance.
-
-Caught in a moment of pure human-like vulnerability, He has leapt from a wooden grinding mortar in a panic to escape Mother Yashoda’s correction. He runs in great haste, yet He is eventually overtaken and caught from behind by her, for her love outruns His divinity.
-
-Crying out in distress, He rubs His eyes repeatedly with His two lotus-soft hands; His breath comes in short, trembling gasps, causing the pearls upon His conch-like neck to shake. His eyes are wide with a very real fear, illustrating the ultimate mystery: that the Infinite, who is beyond the reach of time and space, has allowed Himself to be captured and bound (Dāmodara) by nothing more than the simple cord of His devotee’s unalloyed love."
-
-People are used to the ordinary, opulent Godhood of the opulent Lord, but the Godhood of Krishna challenges the traditionalists because here the beautiful Supreme God Krishna, sat-cit-ananda-rupam, is being unapologetically himself, a seeker of rasa. 
+Please read part 2. 
