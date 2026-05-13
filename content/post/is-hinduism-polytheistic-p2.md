@@ -12,7 +12,7 @@ tags = ["dharma", "philosophy"]
 
 Gajendra prays:\
 namo namaste 'khila-kāraṇāya niṣkāraṇāyādbhuta-kāraṇāya |\
-sarvāgamāmnāya-mahārṇavāya namo 'pavargāya parāyaṇāya || (SB 8.3.15)
+sarvāgamāmnāya-mahārṇavāya namo 'pavargāya parāyaṇāya || (ŚB 8.3.15)
 
 **Translation**
 "I offer my respectful obeisances unto You, who are the cause of all causes, but who Yourself have no cause. You are the wonderful cause of everything. I bow to You, the great ocean of all Vedic knowledge, the giver of liberation, and the ultimate shelter."
@@ -20,37 +20,37 @@ sarvāgamāmnāya-mahārṇavāya namo 'pavargāya parāyaṇāya || (SB 8.3.15)
 A demiurge (or a secondary creator) is a caused cause; they are appointed or created by a higher power to fashion the material world. By using the term niṣkāraṇāya (the causeless), this description identifies a Being who sits outside the chain of causality. It establishes a "Prime Mover" logic: if God had a cause, He would be a secondary product. Only the Supreme is the akhila-kāraṇāya (cause of absolutely everything) while remaining independent.
 
 #### As The Source of Existence
-oṃ namo bhagavate vāsudevāya | janmādy asya yato 'nvayād itarataś cārtheṣv abhijñaḥ svarāṭ... (SB 1.1.1)
+oṃ namo bhagavate vāsudevāya | janmādy asya yato 'nvayād itarataś cārtheṣv abhijñaḥ svarāṭ... (ŚB 1.1.1)
 
 **Translation**
 "O my Lord, Śrī Kṛṣṇa, son of Vasudeva, O all-pervading Personality of Godhead, I offer my respectful obeisances unto You. I meditate upon Lord Śrī Kṛṣṇa because He is the Absolute Truth and the primeval cause of all causes of the creation, sustenance and destruction of the manifested universes. He is directly and indirectly conscious of all manifestations, and He is independent (svarāṭ)..."  
 
-This text is the natural commentary upon the Brahma-sutra's declaration that the Supreme Lord must be "janmadyasya yataha" - "From whom (yataḥ) the creation, etc. [etc. denotes maintenance and destruction] (janma ādi) of this [universe] (asya) [proceeds]."
+This text is the natural commentary upon the Brahma-sūtra's declaration that the Supreme Lord must be "janmādy asya yataḥ" - "From whom (yataḥ) the creation, etc. [etc. denotes maintenance and destruction] (janma ādi) of this [universe] (asya) [proceeds]."
 
 Another key word here is svarāṭ (fully independent). A demiurge or cosmic administrator is dependent on laws, materials, or the will of a superior. This verse clarifies that the Supreme is abhijñaḥ (cognizant) of every detail, both anvayāt (directly) and itarataḥ (indirectly), meaning His consciousness is the very fabric of existence, not just a manager within it.
 
-The verse ends with "satyam param dhimahi" - let us meditate upon the Absolute Truth. Some Hindus may find this statement absurdly Abrahamic, but they can take their concerns up with the Author of the Srimad Bhagavatam, who certainly wasn't Abrahamic.
+The verse ends with "satyaṁ paraṁ dhīmahi" - let us meditate upon the Absolute Truth. Some Hindus may find this statement absurdly Abrahamic, but they can take their concerns up with the Author of the Śrīmad Bhāgavatam, who certainly wasn't Abrahamic.
 
-The first text of the Srimad Bhagavatam is a rich exploration of the Supreme Godhood of Vasudeva as He who binds the aphorisms of Vedanta together, and that deserves its own article.
+The first text of the Śrīmad Bhāgavatam is a rich exploration of the Supreme Godhood of Vāsudeva as He who binds the aphorisms of Vedānta together, and that deserves its own article.
 
 #### As Time Itself
 manye tvāṃ kālam īśānam anādi-nidhānaṃ vibhum |\
-samaṃ carantaṃ sarvatra bhūtānāṃ yan mithaḥ kaliḥ || (SB 1.8.28)
+samaṃ carantaṃ sarvatra bhūtānāṃ yan mithaḥ kaliḥ || (ŚB 1.8.28)
 
 **Translation**
 "My Lord, I consider Your Lordship to be eternal time, the supreme controller, without beginning and end, the all-pervading one. In distributing Your mercy, You are equal to everyone. The dissensions between living beings are due to social intercourse."
 
-Demiurges and celestial beings are subject to time; they have long lifespans, but they eventually perish. Kunti Devi identifies the Supreme as anādi-nidhanam (without beginning or end) and explicitly as Kāla (Time) itself. This shows He is not a being within the timeline, but the force that moves the timeline.
+Demiurges and celestial beings are subject to time; they have long lifespans, but they eventually perish. Kuntī Devī identifies the Supreme as anādi-nidhanam (without beginning or end) and explicitly as Kāla (Time) itself. This shows He is not a being within the timeline, but the force that moves the timeline.
 
 #### As The Original Being
 
 īśvaraḥ paramaḥ kṛṣṇaḥ sac-cid-ānanda-vigrahaḥ |\
-anādir ādir govindaḥ sarva-kāraṇa-kāraṇam || (Brahma Samhita 5.1)
+anādir ādir govindaḥ sarva-kāraṇa-kāraṇam || (Brahma-saṁhitā 5.1)
 
 **Translation**
 "Kṛṣṇa who is known as Govinda is the Supreme Godhead. He has an eternal blissful spiritual body. He is the origin of all. He has no other origin and He is the prime cause of all causes."
 
-This is perhaps the most elegant description of the primordial nature of Krishna's existence. The text uses the phrase anādir ādir—the origin who has no origin. A demiurge is an "ādi" (a beginning) for a specific universe, but he is not "anādi" (without beginning). This paradox precisely isolates the Absolute: the one point in the hierarchy where the "source" stops being a "result."
+This is perhaps the most elegant description of the primordial nature of Kṛṣṇa's existence. The text uses the phrase anādir ādir—the origin who has no origin. A demiurge is an "ādi" (a beginning) for a specific universe, but he is not "anādi" (without beginning). This paradox precisely isolates the Absolute: the one point in the hierarchy where the "source" stops being a "result."
 
 #### As The Source of All Other Forms of God
 namo ’stu ’nantāya sahasra-mūrtaye sahasra-pādākṣi-śiroru-bāhave |\
@@ -63,18 +63,18 @@ While a demiurge has one specific form and function (like creation), this descri
 
 #### As He Whom The World Is A Reflection Of
 
-Sri Gajendra prays:\
+Śrī Gajendra prays:\
 sarvendriya-guṇa-draṣṭre sarva-pratyaya-hetave |\
 asatā chāyayoktāya sad-ābhāsāya te namaḥ ||
 
 **Translation**
 "Obeisances to You, the observer (draṣṭre) of all senses and their qualities, the cause (hetave) of all perception. You are known as the reality (sad-ābhāsāya) that appears within the unreal (asatā), which is said to be Your shadow (chāyayā)."
 
-Usually, we think of a shadow as "nothingness" or an absence of light. But in the Vedantic context of this verse, the Chāyā (shadow) and Ābhāsa (reflection) are used to describe a perverted transformation of reality.
+Usually, we think of a shadow as "nothingness" or an absence of light. But in the Vedāntic context of this verse, the Chāyā (shadow) and Ābhāsa (reflection) are used to describe a perverted transformation of reality.
 
-This is the "Upside-Down Tree" concept (ūrdhva-mūlam adhaḥ-śākham) found in the Bhagavad Gita (15.1), where the reflection exists only because of the substance, yet everything in the reflection is reversed. 
+This is the "Upside-Down Tree" concept (ūrdhva-mūlam adhaḥ-śākham) found in the Bhagavad-gītā (15.1), where the reflection exists only because of the substance, yet everything in the reflection is reversed. 
 
-asatā chāyayoktāya sad-ābhāsāya te namaḥ literally translates to "I bow to You, the Original Truth. This temporary world is merely Your shadow; it appears to have reality (Sat) only because it reflects Your existence, though in itself, it is devoid of lasting substance (Asat)." This is a very Vedantic idea, unique to the tradition. It is not found in other monotheistic traditions.
+asatā chāyayoktāya sad-ābhāsāya te namaḥ literally translates to "I bow to You, the Original Truth. This temporary world is merely a shadow resembling You; it appears to have reality (Sat) only because it reflects Your existence, though in itself it is devoid of lasting substance (Asat)." This is a very Vedāntic idea, unique to the tradition. It is not found in other monotheistic traditions.
 
 This explanation excludes any "lesser god" or demiurge for two precise reasons:
 
@@ -88,5 +88,5 @@ A shadow has the shape of the object but none of its substance. If you try to em
 
 Ābhāsa means "a semblance" or "a reflection." This explains why we are fooled. This world isn't "zero"; it is a reflection of a "one." We seek water in a mirage because we know water exists somewhere else. We seek perfection here only because a perfect "Original" exists.
 
-### Where Vedantic Monotheism Completely Outshines Other Monotheisms
+### Where Vedāntic Monotheism Completely Outshines Other Monotheisms
 Please see Part 3.

@@ -6,7 +6,7 @@ description = "A short note on devas, Brahman, and why labels like polytheism of
 tags = ["dharma", "philosophy"]
 +++
 
-Recently, I've been coming across some passionate Hindus on social media who are convinced that Vaishnava institutions such as ISKCON are teaching an "Abrahamic" form of Hinduism, largely due to their emphasis on monotheism. They claim that Hinduism, in allowing plurality of beliefs, was also inherently polytheistic, and that any assertion of a supreme deity was equivalent to an imperial, Abrahamic imposition on Hinduism. Their words carry an air of indignation, resignation, and of wanting to check the influence of such corrupting ideas.
+Recently, I've been coming across some passionate Hindus on social media who are convinced that Vaiṣṇava institutions such as ISKCON are teaching an "Abrahamic" form of Hinduism, largely due to their emphasis on monotheism. They claim that Hinduism, in allowing plurality of beliefs, was also inherently polytheistic, and that any assertion of a supreme deity was equivalent to an imperial, Abrahamic imposition on Hinduism. Their words carry an air of indignation, resignation, and of wanting to check the influence of such corrupting ideas.
 
 I want to reproduce some of what I've seen below:
 
@@ -18,16 +18,16 @@ I want to reproduce some of what I've seen below:
 
 These are, of course, barely a drop in the ocean of what seems to be a widespread conviction amongst many Hindus. 
 
-For the sake of keeping this article short, I want to define my terms and state that by "Hindu" I mean the religious and spiritual traditions that are based on Vedantic texts, such as the four Vedas, the Upanishads, the Puranas and the Itihasas (histories). Going forward, I'll call these Vedantic religions, as my dislike for the term "Hindu" warrants another article. 
+For the sake of keeping this article short, I want to define my terms and state that by "Hindu" I mean the religious and spiritual traditions that are based on Vedāntic texts, such as the four Vedas, the Upaniṣads, the Purāṇas and the Itihāsas (histories). Going forward, I'll call these Vedāntic religions, as my dislike for the term "Hindu" warrants another article. 
 
-Far from the claim that monotheism is an Abrahamic influence on Vedantic traditions, I would argue that Vedantic-monotheism is not only far more ancient than the Abrahamic religions, but also far more developed than the Abrahamic religions. In another article perhaps I'll discuss how even pantheism, polytheism, etc. are also far more developed in Vedantic traditions than in other polytheistic, pantheistic traditions. 
+Far from the claim that monotheism is an Abrahamic influence on Vedāntic traditions, I would argue that Vedāntic-monotheism is not only far more ancient than the Abrahamic religions, but also far more developed than the Abrahamic religions. In another article perhaps I'll discuss how even pantheism, polytheism, etc. are also far more developed in Vedāntic traditions than in other polytheistic, pantheistic traditions. 
 
-First, I want to explain what it means for a God to truly be Supreme. Then, I'll provide evidence of such a Supreme God (capital G) in the presence of other gods (lowercase g) across various Vedantic texts. Thirdly, I want to showcase the purposeful use of terminology and the depth of theology in the terms used to describe the Supreme in Vedantic texts. Lastly, I want to demonstrate how Vedantic monotheism, specifically Vaishnava monotheism, is unparalleled in all of history, going far beyond what any other tradition has to offer. No other religious system, including the Abrahamic traditions, comes close to the sheer aesthetic beauty and depth to which the Vaishnava traditions develop monotheism. 
+First, I want to explain what it means for a God to truly be Supreme. Then, I'll provide evidence of such a Supreme God (capital G) in the presence of other gods (lowercase g) across various Vedāntic texts. Thirdly, I want to showcase the purposeful use of terminology and the depth of theology in the terms used to describe the Supreme in Vedāntic texts. Lastly, I want to demonstrate how Vedāntic monotheism, specifically Vaiṣṇava monotheism, is unparalleled in all of history, going far beyond what any other tradition has to offer. No other religious system, including the Abrahamic traditions, comes close to the sheer aesthetic beauty and depth to which the Vaiṣṇava traditions develop monotheism. 
 
 ### What does it mean for a God to be Supreme?
 I often ask people if they believe in God. Some say they do, and to them I ask, "why?" Their response is often along the lines of, "There's so much complexity and beauty in the world, how can someone not have designed all of it?"
 
-There's no good or bad argument for belief in God (provided the belief is helpful). However, an intelligent designer is not a Supreme God, since the presence of a designer only entails that the designer exist, not that he be a Supreme Godhead, or even just more complex than his design. A Supreme Godhead has unique characteristics that cannot be attributed to any other being.
+There's no good or bad argument for belief in God (provided the belief is helpful). However, an intelligent designer is not necessarily a Supreme God, since the presence of design only entails that the designer exists. Design does not entail that the designer be a Supreme Godhead, or even be more complex than the design itself. A Supreme Godhead has unique characteristics that cannot be attributed to any other being.
 
 A God is Supreme when He is the source of everything, including existence itself. He is not simply the intelligent designer of complex phenomena, but the reason why existence exists at all. In other words, if God doesn't exist, nothing can exist. He is the cause of all causes, the unmoved mover, and all that exists _is_ in one sense that Supreme God, since nothing apart from Him exists. One may ask why a male gender is ascribed to such a being, but we can discuss this in another article.
 
@@ -48,40 +48,40 @@ Arguments from contingency do well to point to an original, necessary being that
 Nevertheless, a Supreme God fits perfectly as a necessary being, as God by definition is the being due to whom existence itself exists, and hence is the cause of the existence of all other things. While it may be difficult to prove ex nihilo that a Supreme God must exist using argumentation alone, revelation of the existence of a Supreme God who is the cause of all causes easily solves this issue.
 
 ### Does Scripture Speak of a Supreme God?
-Ignorant and unresearched Hindus may find it borderline conspiratorial that all of the major Vedantic texts speak very clearly and consistently about a Supreme God. 
+Ignorant and unresearched Hindus may find it borderline conspiratorial that all of the major Vedāntic texts speak very clearly and consistently about a Supreme God. 
 
-What is especially interesting is that the Vedantic traditions define the Supreme Lord with very distinct and consistent features:
-- The Lord is referred to as janmadi asya yataha (He from whom the universe arises, within whom it is maintained, and into whom it is destroyed).
-- The cause of all causes (sarva karana karanam).
-- He due to whom all of existence exists (Vishnu Sahasranam).
-- He who creates, maintains and destroys all that exists, and yet remains throughout (yah tasya pare 'bhiviraja te vibhuh).
-- He who is the source of all that exists (aham sarvasya prabhavah mattah sarvam pravartate).
+What is especially interesting is that the Vedāntic traditions define the Supreme Lord with very distinct and consistent features:
+- The Lord is referred to as janmādy asya yataḥ (He from whom the universe arises, within whom it is maintained, and into whom it is destroyed).
+- The cause of all causes (sarva-kāraṇa-kāraṇam).
+- He due to whom all of existence exists (Viṣṇu Sahasranāma).
+- He who creates, maintains and destroys all that exists, and yet remains throughout (yaḥ tasya pare 'bhivirājate vibhuḥ).
+- He who is the source of all that exists (ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate).
 
-I want to stress that there are so many such proclamations that if I were to recite all of them, it would take me at least 3 hours. There are countless verses across shastra that describe very precisely the existence and characteristics of the Supreme Lord.
+I want to stress that there are so many such proclamations that if I were to recite all of them, it would take me at least 3 hours. There are countless verses across śāstra that describe very precisely the existence and characteristics of the Supreme Lord.
 
-#### Rg Veda (1.22.20): 
+#### Ṛg Veda (1.22.20): 
 
 oṃ tad viṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ | \
 divīva cakṣurātatam ||
 
 **Translation**
-The wise and enlightened seers constantly behold that supreme abode of Vishnu, like an eye fixed steadily in the heavens.
+The wise and enlightened seers constantly behold that supreme abode of Viṣṇu, like an eye fixed steadily in the heavens.
 
 Although the import of this text is quite deep, poetic and interesting, I won't elaborate too much here since the meaning of the text is very clear as far as our topic at hand is concerned.
 
-#### Puruṣa Sukta 
+#### Puruṣa Sūkta 
 
 sahasra-śīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt | \
 sa bhūmiṃ viśvato vṛtvātyatiṣṭhad-daśāṅgulam || 
 
 **Translation**
-The Purusha has a thousand heads, a thousand eyes, and a thousand feet. Pervading the entire universe on all sides, He yet exists beyond it by a distance of ten fingers.
+The Puruṣa has a thousand heads, a thousand eyes, and a thousand feet. Pervading the entire universe on all sides, He yet exists beyond it by a distance of ten fingers.
 
-In Vedic Sanskrit, sahasra literally means "thousand," but it is used here to represent infinity or limitlessness. It suggests that all heads, eyes, and feet in existence actually belong to the one Cosmic Being. The verse establishes two crucial aspects of the Divine. By "pervading the earth," the Purusha is immanent (present in everything). By "standing beyond it by ten fingers," He is transcendent (existing beyond the physical world).
+In Vedic Sanskrit, sahasra literally means "thousand," but it is used here to represent infinity or limitlessness. It suggests that all heads, eyes, and feet in existence actually belong to the one Cosmic Being. The verse establishes two crucial aspects of the Divine. By "pervading the earth," the Puruṣa is immanent (present in everything). By "standing beyond it by ten fingers," He is transcendent (existing beyond the physical world).
 
 Daśāṅgulam is a famous symbolic measurement. It often represents the heart (the seat of the soul) or simply signifies that no matter how vast the universe is, the Divine source is always greater and remains distinct from its creation.
 
-Even Western academia (which holds non-traditional views on the development of Vedic thought) contends that this is one of the oldest and earliest signs of monotheism in the Vedic traditions. The puruṣa-sukta is found in all of the Vedas, and the Rg Veda is dated conservatively to at least 1500 BCE, far preceding Christianity, Islam, and other forms of developed religious thought as far as documented evidence goes. 
+Even Western academia (which holds non-traditional views on the development of Vedic thought) contends that this is one of the oldest and earliest signs of monotheism in the Vedic traditions. The puruṣa-sūkta is found in all of the Vedas, and the Ṛg Veda is dated conservatively to at least 1500 BCE, far preceding Christianity, Islam, and other forms of developed religious thought as far as documented evidence goes. 
 
 Further to this, in presenting the oneness and difference of the Lord and the world, it is presenting a very advanced understanding of monotheism. Theism can be graded as follows:
 - There is no god (atheism)
@@ -89,7 +89,7 @@ Further to this, in presenting the oneness and difference of the Lord and the wo
 - There is one Supreme only (monotheism)
 - There is only God (oneness-and-difference)
 
-The puruṣa-sukta thus mirrors the teachings of Krishna in the Bhagavad Gita (9.4-5) by showing how the Lord is in this world, beyond this world, and also different from the world. 
+The puruṣa-sūkta thus mirrors the teachings of Kṛṣṇa in the Bhagavad-gītā (9.4-5) by showing how the Lord is in this world, beyond this world, and also different from the world. 
 
 #### Śvetāśvatara Upaniṣad 6.7–8:
 
@@ -107,29 +107,29 @@ The Supreme Lord is the controller of all other controllers, and He is the great
 “He does not possess a bodily form like that of an ordinary living entity. There is no difference between His body and His soul. He is absolute. All His senses are transcendental. Any one of His senses can perform the action of any other sense. Therefore, no one is greater than Him or equal to Him. His potencies are multifarious, and thus His deeds are automatically performed as a natural sequence.”
 
 
-#### Ishopanishad
+#### Īśopaniṣad
 
 oṁ pūrṇam adaḥ pūrṇam idaṁ\
 pūrṇāt pūrṇam udacyate\
 pūrṇasya pūrṇam ādāya\
 pūrṇam evāvaśiṣyate
 
-**Translation** The Personality of Godhead is perfect and complete, and because He is completely perfect, all emanations from Him, such as this phenomenal world, are perfectly equipped as complete wholes. Whatever is produced of the Complete Whole is also complete in itself. Because He is the Complete Whole, even though so many complete units emanate from Him, He remains the complete balance. (Invocation of the Ishopanishad)
+**Translation** The Personality of Godhead is perfect and complete, and because He is completely perfect, all emanations from Him, such as this phenomenal world, are perfectly equipped as complete wholes. Whatever is produced of the Complete Whole is also complete in itself. Because He is the Complete Whole, even though so many complete units emanate from Him, He remains the complete balance. (Invocation of the Īśopaniṣad)
 
-Often celebrated for being one of the first definitions of infinity in history, the same Hindus who decry genuine expressions of Vedantic-monotheism as "Abrahamic" are the same morons who rejoice at the greatness of their supposed culture in having made such great advancements in "mathematics". In reality, of course, the Ishopanishad (which literally means "sitting near the Lord") is not a textbook on mathematics or philosophy, but rather a beautiful instruction on how to know and come closer to the Supreme Lord of all that is. This Supreme Lord is glorified as purṇa, such that we may reflect on His Completeness as the source while receiving the upcoming mantras in the Ishopanishad:
+Often celebrated for being one of the first definitions of infinity in history, the same Hindus who decry genuine expressions of Vedāntic-monotheism as "Abrahamic" are the same morons who rejoice at the greatness of their supposed culture in having made such great advancements in "mathematics". In reality, of course, the Īśopaniṣad (which literally means "sitting near the Lord") is not a textbook on mathematics or philosophy, but rather a beautiful instruction on how to know and come closer to the Supreme Lord of all that is. This Supreme Lord is glorified as pūrṇa, such that we may reflect on His Completeness as the source while receiving the upcoming mantras in the Īśopaniṣad:
 
 īśāvāsyam idaḿ sarvaṁ\
 yat kiñca jagatyāṁ jagat\
 tena tyaktena bhuñjīthā\
 mā gṛdhaḥ kasya svid dhanam
 
-**Translation** Everything animate or inanimate that is within the universe is controlled and owned by the Lord. One should therefore accept only those things necessary for himself, which are set aside as his quota, and one should not accept other things, knowing well to whom they belong. (Ishopanishad Mantra 1)
+**Translation** Everything animate or inanimate that is within the universe is controlled and owned by the Lord. One should therefore accept only those things necessary for himself, which are set aside as his quota, and one should not accept other things, knowing well to whom they belong. (Īśopaniṣad Mantra 1)
 
 The depth of this verse relies on the īśa being the Supreme, otherwise the remaining assertion doesn't work. Everything animate and inanimate _cannot_ be under the control of a non-Supreme entity, since that entity would be a part of the set of animate and inanimate entities. 
 
-#### Bhagavad Gita
+#### Bhagavad-gītā
 
-There are too many texts in the Gita that showcase the absolute Supremacy of Krishna. Hence I will only quote a few here:
+There are too many texts in the Gītā that showcase the absolute Supremacy of Kṛṣṇa. Hence I will only quote a few here:
 
 BG 10.8\
 ahaṁ sarvasya prabhavo\
@@ -139,7 +139,7 @@ budhā bhāva-samanvitāḥ\
 
 I am the source of all spiritual and material worlds. Everything emanates from Me. The wise who perfectly know this engage in My devotional service and worship Me with all their hearts.
 
-In fact, since we are quoting Bhaktivedanta Swami's translations here, let me also quote his commentary to the above text, where he quotes a galaxy of texts from various Vedas and Upanishads to establish the above conclusion:
+In fact, since we are quoting Bhaktivedānta Svāmī's translations here, let me also quote his commentary to the above text, where he quotes a galaxy of texts from various Vedas and Upaniṣads to establish the above conclusion:
 
 > In the Atharva Veda (Gopāla-tāpanī Upaniṣad 1.24) it is said, yo brahmāṇaṁ vidadhāti pūrvaṁ yo vai vedāṁś ca gāpayati sma kṛṣṇaḥ: “It was Kṛṣṇa who in the beginning instructed Brahmā in Vedic knowledge and who disseminated Vedic knowledge in the past.” Then again the Nārāyaṇa Upaniṣad (1) says, atha puruṣo ha vai nārāyaṇo ’kāmayata prajāḥ sṛjeyeti: “Then the Supreme Personality Nārāyaṇa desired to create living entities.” The Upaniṣad continues, nārāyaṇād brahmā jāyate, nārāyaṇād prajāpatiḥ prajāyate, nārāyaṇād indro jāyate, nārāyaṇād aṣṭau vasavo jāyante, nārāyaṇād ekādaśa rudrā jāyante, nārāyaṇād dvādaśādityāḥ: “From Nārāyaṇa, Brahmā is born, and from Nārāyaṇa the patriarchs are also born. From Nārāyaṇa, Indra is born, from Nārāyaṇa the eight Vasus are born, from Nārāyaṇa the eleven Rudras are born, from Nārāyaṇa the twelve Ādityas are born.” This Nārāyaṇa is an expansion of Kṛṣṇa.
 >
@@ -163,9 +163,9 @@ In fact, since we are quoting Bhaktivedanta Swami's translations here, let me al
 >
 > Lord Kṛṣṇa is the source of all generations, and He is called the most efficient cause of everything. He says, “Because everything is born of Me, I am the original source of all. Everything is under Me; no one is above Me.” There is no supreme controller other than Kṛṣṇa. One who understands Kṛṣṇa in such a way from a bona fide spiritual master, with references from Vedic literature, engages all his energy in Kṛṣṇa consciousness and becomes a truly learned man. In comparison to him, all others, who do not know Kṛṣṇa properly, are but fools. Only a fool would consider Kṛṣṇa to be an ordinary man.
 
-#### Vishnu Sahasranam
+#### Viṣṇu Sahasranāma
 
-The entirety of the Vishnu Sahasranam is centered on Vishnu being the Supreme. Sri Bhakti Vikasa Swami has a large and elaborate YouTube series on the Vishnu Sahasranama names, in which he describes what each name means.
+The entirety of the Viṣṇu Sahasranāma is centered on Viṣṇu being the Supreme. Śrī Bhakti Vikāsa Svāmī has a large and elaborate YouTube series on the Viṣṇu Sahasranāma names, in which he describes what each name means.
 
 ### How deep was the understanding of a Supreme God?
 Please read part 2. 
