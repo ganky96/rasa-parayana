@@ -168,4 +168,4 @@ In fact, since we are quoting Bhaktivedānta Svāmī's translations here, let me
 The entirety of the Viṣṇu Sahasranāma is centered on Viṣṇu being the Supreme. Śrī Bhakti Vikāsa Svāmī has a large and elaborate YouTube series on the Viṣṇu Sahasranāma names, in which he describes what each name means.
 
 ### How deep was the understanding of a Supreme God?
-Please read part 2. 
+Please read [Part 2](/post/is-hinduism-polytheistic-p2/).

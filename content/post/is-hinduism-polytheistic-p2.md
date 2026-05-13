@@ -79,14 +79,16 @@ asatā chāyayoktāya sad-ābhāsāya te namaḥ literally translates to "I bow 
 This explanation excludes any "lesser god" or demiurge for two precise reasons:
 
 1. The Substratum of Existence
-A demiurge is a "contractor" who builds with pre-existing materials. However, this verse describes the Supreme as the Object that casts the shadow. If the Supreme moves, the shadow moves. If the Supreme were to disappear, the shadow (the material universe) would cease to exist instantly. This implies that God is the Essential Substratum—the very reason the "unreal" appears to exist at all.
+A demiurge is a "contractor" who builds with pre-existing materials. However, this verse describes that the entire material world is a resemblance in darkness of the original Lord. This implies that God is the Essential Substratum—the very reason the "unreal" appears to exist at all.
 
 2. The Source of "Is-ness"
-The term Sad-ābhāsāya means He is the source of the Sat (existence) found in this world. A secondary god is himself a "reflection"—he is a created being with a beginning and an end. He cannot be the source of "existence" because he is a recipient of it. Only the Supreme can be the "Real" (Sat) that lends its reality to the "Unreal" (Asat).
+The term Sad-ābhāsāya means He is the source of the Sat (existence) found in this world. A secondary god is himself a "reflection": he is a created being with a beginning and an end. He cannot be the source of "existence" because he is a recipient of it. Only the Supreme can be the "Real" (Sat) that lends its reality to the "Unreal" (Asat).
 
-A shadow has the shape of the object but none of its substance. If you try to embrace a shadow, you feel nothing. Similarly, the material world has the "shape" of spiritual reality (it has relationships, beauty, and activity), but it lacks the eternal substance.
-
-Ābhāsa means "a semblance" or "a reflection." This explains why we are fooled. This world isn't "zero"; it is a reflection of a "one." We seek water in a mirage because we know water exists somewhere else. We seek perfection here only because a perfect "Original" exists.
+A shadow has the shape of the object but none of its substance. If you try to embrace a shadow, you feel nothing. Similarly, the material world has the "shape" of spiritual reality (it has relationships, beauty, and activity), but it is reflected upside down in the desire of the living entity. In the spiritual world the living entity desires to serve, and in the material world the living entity is self serving. 
 
 ### Where Vedāntic Monotheism Completely Outshines Other Monotheisms
-Please see Part 3.
+Please see [Part 3](/post/is-hinduism-polytheistic-p3/).
+
+---
+
+Missed the beginning? Read [Part 1](/post/is-hinduism-polytheistic-p1/).

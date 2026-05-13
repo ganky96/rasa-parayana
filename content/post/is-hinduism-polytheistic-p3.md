@@ -37,3 +37,7 @@ Crying out in distress, He rubs His eyes repeatedly with His two lotus-soft hand
 People are used to the ordinary, opulent Godhood of the opulent Lord, but the Godhood of Kṛṣṇa challenges the traditionalists because here the beautiful Supreme God Kṛṣṇa, sac-cid-ānanda-rūpam, is being unapologetically Himself, a seeker of rasa. 
 
 TODO: Also quote itthaṁ satāṁ brahmasukha...
+
+---
+
+Missed the earlier parts? Read [Part 1](/post/is-hinduism-polytheistic-p1/) and [Part 2](/post/is-hinduism-polytheistic-p2/).
