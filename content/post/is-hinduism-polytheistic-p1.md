@@ -6,7 +6,7 @@ description = "A short note on devas, Brahman, and why labels like polytheism of
 tags = ["dharma", "philosophy"]
 +++
 
-Recently, I've been coming across some passionate Hindus on social media who are convinced that Vaishnava institutions such as ISKCON are teaching an "Abrahamic" form of Hinduism, largely due to their emphasis on monotheism. They claim that Hinduism, in allowing plurality of beliefs, was also inherently polytheistic, and that any assertion of a supreme deity was equivalent to an imperial, Abrahamic imposition on Hinduism. Their words carry an air of indignance, resignation, and of wanting to check the influence of such corrupting ideas.
+Recently, I've been coming across some passionate Hindus on social media who are convinced that Vaishnava institutions such as ISKCON are teaching an "Abrahamic" form of Hinduism, largely due to their emphasis on monotheism. They claim that Hinduism, in allowing plurality of beliefs, was also inherently polytheistic, and that any assertion of a supreme deity was equivalent to an imperial, Abrahamic imposition on Hinduism. Their words carry an air of indignation, resignation, and of wanting to check the influence of such corrupting ideas.
 
 I want to reproduce some of what I've seen below:
 
@@ -18,46 +18,46 @@ I want to reproduce some of what I've seen below:
 
 These are, of course, barely a drop in the ocean of what seems to be a widespread conviction amongst many Hindus. 
 
-For the sake of keeping this article short, I want to define my terms and state that by "Hindu" I mean the religious and spiritual traditions that are based on Vedantic texts, such as that four Vedas, the Upanishads, the Puranas and the Itihasas (histories). Going forward, I'll call these Vedantic religions, as my dislike for the term "Hindu" warrants another article. 
+For the sake of keeping this article short, I want to define my terms and state that by "Hindu" I mean the religious and spiritual traditions that are based on Vedantic texts, such as the four Vedas, the Upanishads, the Puranas and the Itihasas (histories). Going forward, I'll call these Vedantic religions, as my dislike for the term "Hindu" warrants another article. 
 
 Far from the claim that monotheism is an Abrahamic influence on Vedantic traditions, I would argue that Vedantic-monotheism is not only far more ancient than the Abrahamic religions, but also far more developed than the Abrahamic religions. In another article perhaps I'll discuss how even pantheism, polytheism, etc. are also far more developed in Vedantic traditions than in other polytheistic, pantheistic traditions. 
 
-First, I want to explain what it means for a God to truly by Supreme. Then, I'll provide evidence of such a Supreme God (capital G) in the presence of other gods (lowercase g) across various Vedantic texts. Thirdly, I want to showcase the purposeful use of terminology and the depth of theology in the terms used to describe the Supreme in Vedantic texts. Lastly, I want to demonstrate how Vedantic monotheism, specifically Vaishnava monotheism, is unparalleled in all of history, going far beyond what any other tradition has to offer. No other religious system, including the Abrahamic traditions, come close to the sheer aesthetic beauty and depth to which the Vaishnava traditions develop monotheism. 
+First, I want to explain what it means for a God to truly be Supreme. Then, I'll provide evidence of such a Supreme God (capital G) in the presence of other gods (lowercase g) across various Vedantic texts. Thirdly, I want to showcase the purposeful use of terminology and the depth of theology in the terms used to describe the Supreme in Vedantic texts. Lastly, I want to demonstrate how Vedantic monotheism, specifically Vaishnava monotheism, is unparalleled in all of history, going far beyond what any other tradition has to offer. No other religious system, including the Abrahamic traditions, comes close to the sheer aesthetic beauty and depth to which the Vaishnava traditions develop monotheism. 
 
 ### What does it mean for a God to be Supreme?
 I often ask people if they believe in God. Some say they do, and to them I ask, "why?" Their response is often along the lines of, "There's so much complexity and beauty in the world, how can someone not have designed all of it?"
 
-There's no good or bad argument for belief in God (provided the belief is helpful). However, an intelligent designer is not a Supreme God, since the presence of a designer only entails that the designer exist, not that he be a Supreme Godhead, or even just more complex than his design. A Supreme Godhead has unique characteristcs that cannot be attributed to any other being.
+There's no good or bad argument for belief in God (provided the belief is helpful). However, an intelligent designer is not a Supreme God, since the presence of a designer only entails that the designer exist, not that he be a Supreme Godhead, or even just more complex than his design. A Supreme Godhead has unique characteristics that cannot be attributed to any other being.
 
 A God is Supreme when He is the source of everything, including existence itself. He is not simply the intelligent designer of complex phenomena, but the reason why existence exists at all. In other words, if God doesn't exist, nothing can exist. He is the cause of all causes, the unmoved mover, and all that exists _is_ in one sense that Supreme God, since nothing apart from Him exists. One may ask why a male gender is ascribed to such a being, but we can discuss this in another article.
 
-This idea is well expressed in the arguments for the existence of God that arise from contemplations of contingency, i.e. dependence. Such arguments are found across traditions in the world who believe in a Supreme God, in its various forms. A quick summary of such an argument is:
+This idea is well expressed in the arguments for the existence of God that arise from contemplations of contingency, i.e. dependence. Such arguments are found across traditions in the world that believe in a Supreme God, in their various forms. A quick summary of such an argument is:
 - If something exists, say an iPhone or a table, is there anything about that object that necessitates its own existence? In other words, is it a necessity that the iPhone exist the way it does, or is it also possible for the iPhone to not exist?
-- We would argue that there is nothing about an iphone that necessitates its own existence. Rather we know for a fact that it was created in a factory, and thus its existence depended upon the factory, i.e. it has contingent existence
+- We would argue that there is nothing about an iPhone that necessitates its own existence. Rather, we know for a fact that it was created in a factory, and thus its existence depended upon the factory, i.e. it has contingent existence.
 - Does the factory have any necessary existence? Clearly, it does not.
-- In this way we can work backwards and conclude that there is nothing in this world that necessarily explains why it must exist the way it is. 
-- However if this were to be accepted, then nothing at all should exist! We'd form an infinite chain of dependent objects, and infinites don't end. If such an infinite dependency were to exist, then nothing in the world would exist.
-- But since contingent objects, such as iPhones and this universe, do exist, there must exist something that doesn't depend on something else for its existence
+- In this way, we can work backwards and conclude that there is nothing in this world that necessarily explains why it must exist the way it is.
+- However, if this were to be accepted, then nothing at all should exist! We'd form an infinite chain of dependent objects, and infinities don't end. If such an infinite dependency were to exist, then nothing in the world would exist.
+- But since contingent objects, such as iPhones and this universe, do exist, there must exist something that doesn't depend on something else for its existence.
 - This "thing" is the original cause, that which necessarily must exist.
 
-Arguments from contingency do well to point to an original, necessary being that doesn't depend on anything else for its existence. However, they cannot be used to argue for what the nature of that necessary being must be. Historically, many arguments have been put forth to convert a necessary being into a God with a personality, or further a Christian God, a Muslim God, etc. For instance:
-- if the necessary "thing" is the source of all that exists, it must have personality, since the creation has personality
-- it must also have supreme intelligence
-- since nothing else exists, it must have supreme agency, and thus agency entails a mind, consciousness, etc.
+Arguments from contingency do well to point to an original, necessary being that doesn't depend on anything else for its existence. However, they cannot be used to argue for what the nature of that necessary being must be. Historically, many arguments have been put forth to convert a necessary being into a God with a personality, or further into a Christian God, a Muslim God, etc. For instance:
+- If the necessary "thing" is the source of all that exists, it must have personality, since the creation has personality.
+- It must also have supreme intelligence.
+- Since nothing else exists, it must have supreme agency, and agency entails a mind, consciousness, etc.
 
-Nevertheless, a Supreme God fits perfectly as a necessary being, as God by definition is the being due to whom existence itself exists, and hence is the cause of the existence of all other things. While it may be difficult to prove ex-nihilo that a Supreme God must exist using argumentation alone, revelation of the existence of a Supreme God who is the cause of all causes easily solves this issue.
+Nevertheless, a Supreme God fits perfectly as a necessary being, as God by definition is the being due to whom existence itself exists, and hence is the cause of the existence of all other things. While it may be difficult to prove ex nihilo that a Supreme God must exist using argumentation alone, revelation of the existence of a Supreme God who is the cause of all causes easily solves this issue.
 
 ### Does Scripture Speak of a Supreme God?
 Ignorant and unresearched Hindus may find it borderline conspiratorial that all of the major Vedantic texts speak very clearly and consistently about a Supreme God. 
 
 What is especially interesting is that the Vedantic traditions define the Supreme Lord with very distinct and consistent features:
-- The Lord is referred to as janmadi asya yataha (He from whom the universe arises, within whom it is maintained, and into whom it is destroyed)
-- the cause of all causes (sarva karana karanam)
-- He due to whom all of existence exists (Vishnu Sahasranam)
-- He who creates, maintains and destroys all that exists, and yet remains throughout (yah tasya pare 'bhiviraja te vibhuh)
-- He who is the source of all that exists (aham sarvasya prabhavah mattah sarvam pravartate)
+- The Lord is referred to as janmadi asya yataha (He from whom the universe arises, within whom it is maintained, and into whom it is destroyed).
+- The cause of all causes (sarva karana karanam).
+- He due to whom all of existence exists (Vishnu Sahasranam).
+- He who creates, maintains and destroys all that exists, and yet remains throughout (yah tasya pare 'bhiviraja te vibhuh).
+- He who is the source of all that exists (aham sarvasya prabhavah mattah sarvam pravartate).
 
-I want to stress that there are so many such proclamations that if I were to recite all of them, it would take me at least 3 hours. There countless verses across shastra that describe very precisely the existence and characteristics of the Supreme Lord.
+I want to stress that there are so many such proclamations that if I were to recite all of them, it would take me at least 3 hours. There are countless verses across shastra that describe very precisely the existence and characteristics of the Supreme Lord.
 
 #### Rg Veda (1.22.20): 
 
@@ -81,15 +81,15 @@ In Vedic Sanskrit, sahasra literally means "thousand," but it is used here to re
 
 Daśāṅgulam is a famous symbolic measurement. It often represents the heart (the seat of the soul) or simply signifies that no matter how vast the universe is, the Divine source is always greater and remains distinct from its creation.
 
-Even Western Academia (who hold non-traditional views on the development of Vedic thought) contend that this is one of the oldest and earliest signs of monotheism in the Vedic traditions. The puruṣa-sukta is found in all of the Vedas, and the Rg Veda is dated conservatively to at least 1500 BCE, far preceding both CHristianity, Islam and other forms of developed religious thought as far as documented evidence goes. 
+Even Western academia (which holds non-traditional views on the development of Vedic thought) contends that this is one of the oldest and earliest signs of monotheism in the Vedic traditions. The puruṣa-sukta is found in all of the Vedas, and the Rg Veda is dated conservatively to at least 1500 BCE, far preceding Christianity, Islam, and other forms of developed religious thought as far as documented evidence goes. 
 
-Further to this, in presenting the oneness and difference of the Lord and the world, it is presenting a very advanced understanding of monotheism: theism can be graded as follows:
-- there is no god (athiesm)
-- there are some gods (polytheism)
-- there is one Supreme only (monotheism)
-- there is only God (oneness-and-difference)
+Further to this, in presenting the oneness and difference of the Lord and the world, it is presenting a very advanced understanding of monotheism. Theism can be graded as follows:
+- There is no god (atheism)
+- There are some gods (polytheism)
+- There is one Supreme only (monotheism)
+- There is only God (oneness-and-difference)
 
-The puruṣa-sukta thus mirrors the teachings of Krishna in the Bhagavad Gita (9.4-5) by showing how the Lord is both in this world, beyond this world, and also different from the world. 
+The puruṣa-sukta thus mirrors the teachings of Krishna in the Bhagavad Gita (9.4-5) by showing how the Lord is in this world, beyond this world, and also different from the world. 
 
 #### Śvetāśvatara Upaniṣad 6.7–8:
 
@@ -116,14 +116,14 @@ pūrṇam evāvaśiṣyate
 
 **Translation** The Personality of Godhead is perfect and complete, and because He is completely perfect, all emanations from Him, such as this phenomenal world, are perfectly equipped as complete wholes. Whatever is produced of the Complete Whole is also complete in itself. Because He is the Complete Whole, even though so many complete units emanate from Him, He remains the complete balance. (Invocation of the Ishopanishad)
 
-Often celebrated for being one of the first definitions in history of infinity, the same Hindus who decry genuine expressions of Vedantic-monotheism as "Abrahamic" are the same morons who rejoice at the great of their supposed culture in having made such great advancements in "mathematics". In reality, of course, the Ishopanishad (literally means sitting near the Lord) is not a textbook on mathematics or philosophy, but rather a beautiful instruction on how to know and come closer to the Supreme Lord of all that is. This Supreme Lord is glorified as purṇa, such that we may reflect on his Completeness as the source while receiving the upcoming mantras in the Ishopanishad:
+Often celebrated for being one of the first definitions of infinity in history, the same Hindus who decry genuine expressions of Vedantic-monotheism as "Abrahamic" are the same morons who rejoice at the greatness of their supposed culture in having made such great advancements in "mathematics". In reality, of course, the Ishopanishad (which literally means "sitting near the Lord") is not a textbook on mathematics or philosophy, but rather a beautiful instruction on how to know and come closer to the Supreme Lord of all that is. This Supreme Lord is glorified as purṇa, such that we may reflect on His Completeness as the source while receiving the upcoming mantras in the Ishopanishad:
 
 īśāvāsyam idaḿ sarvaṁ\
 yat kiñca jagatyāṁ jagat\
 tena tyaktena bhuñjīthā\
 mā gṛdhaḥ kasya svid dhanam
 
-**Translation** Everything animate or inanimate that is within the universe is controlled and owned by the Lord. One should therefore accept only those thing**s necessary for himself, which are set aside as his quota, and one should not accept other things, knowing well to whom they belong. (Ishopanishad Mantra 1)
+**Translation** Everything animate or inanimate that is within the universe is controlled and owned by the Lord. One should therefore accept only those things necessary for himself, which are set aside as his quota, and one should not accept other things, knowing well to whom they belong. (Ishopanishad Mantra 1)
 
 The depth of this verse relies on the īśa being the Supreme, otherwise the remaining assertion doesn't work. Everything animate and inanimate _cannot_ be under the control of a non-Supreme entity, since that entity would be a part of the set of animate and inanimate entities. 
 

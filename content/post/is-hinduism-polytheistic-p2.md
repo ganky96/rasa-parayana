@@ -25,13 +25,13 @@ oṃ namo bhagavate vāsudevāya | janmādy asya yato 'nvayād itarataś cārthe
 **Translation**
 "O my Lord, Śrī Kṛṣṇa, son of Vasudeva, O all-pervading Personality of Godhead, I offer my respectful obeisances unto You. I meditate upon Lord Śrī Kṛṣṇa because He is the Absolute Truth and the primeval cause of all causes of the creation, sustenance and destruction of the manifested universes. He is directly and indirectly conscious of all manifestations, and He is independent (svarāṭ)..."  
 
-This text is the natural commentary upon the Brahma-sutra's declaration that the Supreme Lord must be "janmadyasya yataha" - "From whom (yataḥ) the creation, etc. [etc. denotes maintenance and destruction] (janma ādi) of this [universe] (asya) [proceeds].
+This text is the natural commentary upon the Brahma-sutra's declaration that the Supreme Lord must be "janmadyasya yataha" - "From whom (yataḥ) the creation, etc. [etc. denotes maintenance and destruction] (janma ādi) of this [universe] (asya) [proceeds]."
 
-Another key word here is svarāṭ (fully independent). A demiurge or cosmic administrator is dependent on laws, materials, or the will of a superior. This verse clarifies that the Supreme is abhijñaḥ (cognizant) of every detail both anvayat (directly) and itatarataḥ (indirectly), meaning His consciousness is the very fabric of existence, not just a manager within it.
+Another key word here is svarāṭ (fully independent). A demiurge or cosmic administrator is dependent on laws, materials, or the will of a superior. This verse clarifies that the Supreme is abhijñaḥ (cognizant) of every detail, both anvayāt (directly) and itarataḥ (indirectly), meaning His consciousness is the very fabric of existence, not just a manager within it.
 
 The verse ends with "satyam param dhimahi" - let us meditate upon the Absolute Truth. Some Hindus may find this statement absurdly Abrahamic, but they can take their concerns up with the Author of the Srimad Bhagavatam, who certainly wasn't Abrahamic.
 
-The first text of the Srimad Bhagavatam is a rich exploration of the Supreme Godhood of Vasudeva as He who binds the aphorisms of Vedanta togeter, and that deserves its own article.
+The first text of the Srimad Bhagavatam is a rich exploration of the Supreme Godhood of Vasudeva as He who binds the aphorisms of Vedanta together, and that deserves its own article.
 
 #### As Time Itself
 manye tvāṃ kālam īśānam anādi-nidhānaṃ vibhum |\
@@ -45,12 +45,12 @@ Demiurges and celestial beings are subject to time; they have long lifespans, bu
 #### As The Original Being
 
 īśvaraḥ paramaḥ kṛṣṇaḥ sac-cid-ānanda-vigrahaḥ |\
-anādir ādir govindaḥ sarva-kāraṇ-kāraṇam || (Brahma Samhita 5.1)
+anādir ādir govindaḥ sarva-kāraṇa-kāraṇam || (Brahma Samhita 5.1)
 
 **Translation**
 "Kṛṣṇa who is known as Govinda is the Supreme Godhead. He has an eternal blissful spiritual body. He is the origin of all. He has no other origin and He is the prime cause of all causes."
 
-This is perhaps the most elegant description of the primordial nature of Krishna's existence.The text uses the phrase anādir ādir—the origin who has no origin. A demiurge is an "ādi" (a beginning) for a specific universe, but he is not "anādi" (without beginning). This paradox precisely isolates the Absolute: the one point in the hierarchy where the "source" stops being a "result."
+This is perhaps the most elegant description of the primordial nature of Krishna's existence. The text uses the phrase anādir ādir—the origin who has no origin. A demiurge is an "ādi" (a beginning) for a specific universe, but he is not "anādi" (without beginning). This paradox precisely isolates the Absolute: the one point in the hierarchy where the "source" stops being a "result."
 
 #### As The Source of All Other Forms of God
 namo ’stu ’nantāya sahasra-mūrtaye sahasra-pādākṣi-śiroru-bāhave |\
@@ -64,7 +64,7 @@ While a demiurge has one specific form and function (like creation), this descri
 #### As He Whom The World Is A Reflection Of
 
 Sri Gajendra prays:\
-sarvendriya-guṇa-draṣṭre sarva-pratyaya-hetave |
+sarvendriya-guṇa-draṣṭre sarva-pratyaya-hetave |\
 asatā chāyayoktāya sad-ābhāsāya te namaḥ ||
 
 **Translation**
@@ -74,7 +74,7 @@ Usually, we think of a shadow as "nothingness" or an absence of light. But in th
 
 This is the "Upside-Down Tree" concept (ūrdhva-mūlam adhaḥ-śākham) found in the Bhagavad Gita (15.1), where the reflection exists only because of the substance, yet everything in the reflection is reversed. 
 
-asata chāyayoktāya sad-ābhāsāya te namaḥ literally translates to "I bow to You, the Original Truth. This temporary world is merely Your shadow; it appears to have reality (Sat) only because it reflects Your existence, though in itself, it is devoid of lasting substance (Asat)." This is a very Vedantic idea, unique to the tradition. This is not found in other monotheistic traditions.
+asatā chāyayoktāya sad-ābhāsāya te namaḥ literally translates to "I bow to You, the Original Truth. This temporary world is merely Your shadow; it appears to have reality (Sat) only because it reflects Your existence, though in itself, it is devoid of lasting substance (Asat)." This is a very Vedantic idea, unique to the tradition. It is not found in other monotheistic traditions.
 
 This explanation excludes any "lesser god" or demiurge for two precise reasons:
 
@@ -84,11 +84,9 @@ A demiurge is a "contractor" who builds with pre-existing materials. However, th
 2. The Source of "Is-ness"
 The term Sad-ābhāsāya means He is the source of the Sat (existence) found in this world. A secondary god is himself a "reflection"—he is a created being with a beginning and an end. He cannot be the source of "existence" because he is a recipient of it. Only the Supreme can be the "Real" (Sat) that lends its reality to the "Unreal" (Asat).
 
-A shadow has the shape of the object but none of its substance. If you try to embrace a shadow, you feel nothing. Similarly, the material world has the "shape" of spiritual reality (it has relationships, beauty, and activity), but it lacks the eternal substance. As you pointed out:
+A shadow has the shape of the object but none of its substance. If you try to embrace a shadow, you feel nothing. Similarly, the material world has the "shape" of spiritual reality (it has relationships, beauty, and activity), but it lacks the eternal substance.
 
 Ābhāsa means "a semblance" or "a reflection." This explains why we are fooled. This world isn't "zero"; it is a reflection of a "one." We seek water in a mirage because we know water exists somewhere else. We seek perfection here only because a perfect "Original" exists.
-
-The confusion often stems from how we perceive a shadow. Usually, we think of a shadow as "nothingness" or an absence of light. But in the Vedantic context of this verse, the Chāyā (shadow) and Ābhāsa (reflection) are used to describe a perverted transformation of reality.
 
 ### Where Vedantic Monotheism Completely Outshines Other Monotheisms
 Please see Part 3.
