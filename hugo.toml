@@ -6,6 +6,7 @@ theme = 'hello-friend-ng'
 defaultContentLanguage = 'en'
 
 enableEmoji = true
+enableRobotsTXT = true
 
 [services.googleAnalytics]
   id='G-M0DDVBQJYV'
