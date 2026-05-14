@@ -8,19 +8,9 @@ tags = ["dharma", "philosophy"]
 
 **Contents**
 
-- [Sat, Cit, Ānanda](#sat-cit-ananda)
 - [Vaiṣṇavism provides the highest conception of Monotheistic theology](#vaishnavism-highest)
 
 ---
-
-#### Sat, Cit, Ānanda {#sat-cit-ananda}
-The use of the words sat, cit, and ānanda clearly defines the essential features of divinity, in a way that captures what makes divinity the source of all that is in this world.
-
-Sat refers to the cause of all causes, and the basis of all existence.
-
-Cit refers to the source of all consciousness and awareness, the lens through which all of reality is perceptible to the moving and the non-moving.
-
-Ānanda is the fullness of experience, as is sought by living entities and completely experienced by the Supreme. 
 
 ### Vaiṣṇavism provides the highest conception of Monotheistic theology {#vaishnavism-highest}
 

@@ -1,25 +1,26 @@
 +++
-title = "Is Hinduism polytheistic? (2/3)"
+title = "Does Scripture Reflect Depth In Understanding of A Supreme God? Hinduism and Polythiesm (2/3)"
 date = 2026-05-10
 draft = false
-description = "A short note on devas, Brahman, and why labels like polytheism often miss the point."
+description = "Does Scripture Reflect Depth In Understanding of A Supreme God?"
 tags = ["dharma", "philosophy"]
 +++
 
 **Contents**
 
-- [How deep was the understanding of a Supreme God?](#how-deep)
+- [Does Scripture Reflect Depth In Understanding of A Supreme God?](#how-deep)
   - [As The Cause of All Causes](#cause-of-all-causes)
   - [As The Source of Existence](#source-of-existence)
   - [As Time Itself](#time-itself)
   - [As The Original Being](#original-being)
   - [As The Source of All Other Forms of God](#source-other-forms)
   - [As He Whom The World Is A Reflection Of](#world-reflection)
+  - [Sat, Cit, Ānanda](#sat-cit-ananda)
 - [Where Vedāntic Monotheism Completely Outshines Other Monotheisms](/post/is-hinduism-polytheistic-p3/) (Part 3)
 
 ---
 
-### How deep was the understanding of a Supreme God? {#how-deep}
+### Does Scripture Reflect Depth In Understanding of A Supreme God? {#how-deep}
 
 #### As The Cause of All Causes {#cause-of-all-causes}
 
@@ -91,13 +92,22 @@ asatā chāyayoktāya sad-ābhāsāya te namaḥ literally translates to "I bow 
 
 This explanation excludes any "lesser god" or demiurge for two precise reasons:
 
-1. The Substratum of Existence
+1. The Substratum of Existence\
 A demiurge is a "contractor" who builds with pre-existing materials. However, this verse describes that the entire material world is a resemblance in darkness of the original Lord. This implies that God is the Essential Substratum—the very reason the "unreal" appears to exist at all.
 
-2. The Source of "Is-ness"
+2. The Source of "Is-ness"\
 The term Sad-ābhāsāya means He is the source of the Sat (existence) found in this world. A secondary god is himself a "reflection": he is a created being with a beginning and an end. He cannot be the source of "existence" because he is a recipient of it. Only the Supreme can be the "Real" (Sat) that lends its reality to the "Unreal" (Asat).
 
 A shadow has the shape of the object but none of its substance. If you try to embrace a shadow, you feel nothing. Similarly, the material world has the "shape" of spiritual reality (it has relationships, beauty, and activity), but it is reflected upside down in the desire of the living entity. In the spiritual world the living entity desires to serve, and in the material world the living entity is self serving. 
+
+#### Sat, Cit, Ānanda {#sat-cit-ananda}
+The use of the words sat, cit, and ānanda clearly defines the essential features of divinity, in a way that captures what makes divinity the source of all that is in this world.
+
+Sat refers to the cause of all causes, and the basis of all existence.
+
+Cit refers to the source of all consciousness and awareness, the lens through which all of reality is perceptible to the moving and the non-moving.
+
+Ānanda is the fullness of experience, as is sought by living entities and completely experienced by the Supreme. 
 
 ### Where Vedāntic Monotheism Completely Outshines Other Monotheisms {#vedantic-outshines}
 Please see [Part 3](/post/is-hinduism-polytheistic-p3/).
