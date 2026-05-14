@@ -1,5 +1,5 @@
 +++
-title = "Is Hinduism polytheistic? (3/3)"
+title = "Where Vedantic Monotheism Completely Outshines Other Traditions | Is Hinduism polytheistic? (3/3)"
 date = 2026-05-10
 draft = false
 description = "A short note on devas, Brahman, and why labels like polytheism often miss the point."
@@ -31,7 +31,7 @@ Caught in a moment of pure human-like vulnerability, He has leapt from a wooden 
 
 Crying out in distress, He rubs His eyes repeatedly with His two lotus-soft hands; His breath comes in short, trembling gasps, causing the pearls upon His conch-like neck to shake. His eyes are wide with a very real fear, illustrating the ultimate mystery: that the Infinite, who is beyond the reach of time and space, has allowed Himself to be captured and bound (Dāmodara) by nothing more than the simple cord of His devotee’s unalloyed love."
 
-People are used to the ordinary, opulent Godhood of the opulent Lord, but the Godhood of Kṛṣṇa challenges the traditionalists because here the beautiful Supreme God Kṛṣṇa, sac-cid-ānanda-rūpam, is being unapologetically Himself, a seeker of rasa. 
+People are used to the well-known, opulent Godhood of the opulent Lord, but the Godhood of Kṛṣṇa challenges the traditionalists because here the beautiful Supreme God Kṛṣṇa, sac-cid-ānanda-rūpam, is being unapologetically Himself, a seeker of rasa. 
 
 TODO: Also quote itthaṁ satāṁ brahmasukha...
 
