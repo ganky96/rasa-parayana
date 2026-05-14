@@ -1,3 +1,8 @@
+/* Discord CTA above copyright row */
+.footer__community {
+  margin-bottom: 0.75rem;
+}
+
 /* Home epigraph: monospace only; colour comes from rose-pine.css (body text, no link styling). */
 .home-intro {
   font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
