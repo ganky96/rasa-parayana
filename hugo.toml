@@ -11,10 +11,6 @@ enableRobotsTXT = true
 [services.googleAnalytics]
   id='G-M0DDVBQJYV'
 
-[[params.social]]
-  name = "discord"
-  url = "https://discord.gg/gUzuZ5QAXB"
-
 [pagination]
 pagerSize = 10
 
