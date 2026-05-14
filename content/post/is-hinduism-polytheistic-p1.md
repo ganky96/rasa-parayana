@@ -16,7 +16,8 @@ tags = ["dharma", "philosophy"]
   - [Īśopaniṣad](#isopanishad)
   - [Bhagavad-gītā](#bhagavad-gita)
   - [Viṣṇu Sahasranāma](#vishnu-sahasranama)
-- [How deep was the understanding of a Supreme God?](/post/is-hinduism-polytheistic-p2/) (Part 2)
+- [Scripture and the conceptual sophistication of divine supremacy](/post/is-hinduism-polytheistic-p2/) (Part 2)
+- [Where Vedāntic Monotheism Completely Outshines Other Monotheisms](/post/is-hinduism-polytheistic-p3/) (Part 3)
 
 ---
 
@@ -183,5 +184,5 @@ In fact, since we are quoting Bhaktivedānta Svāmī's translations here, let me
 
 The entirety of the Viṣṇu Sahasranāma is centered on Viṣṇu being the Supreme. Śrī Bhakti Vikāsa Svāmī has a large and elaborate YouTube series on the Viṣṇu Sahasranāma names, in which he describes what each name means.
 
-### How deep was the understanding of a Supreme God?
+### Scripture and the conceptual sophistication of divine supremacy {#how-deep-was-the-understanding-of-a-supreme-god}
 Please read [Part 2](/post/is-hinduism-polytheistic-p2/).

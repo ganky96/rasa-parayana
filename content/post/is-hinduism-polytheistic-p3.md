@@ -1,8 +1,8 @@
 +++
-title = "Where Vedantic Monotheism Completely Outshines Other Traditions | Is Hinduism polytheistic? (3/3)"
+title = "Where Vedāntic Monotheism Completely Outshines Other Monotheisms | Is Hinduism polytheistic? (3/3)"
 date = 2026-05-10
 draft = false
-description = "A short note on devas, Brahman, and why labels like polytheism often miss the point."
+description = "Where Vedāntic monotheism exceeds other monotheistic conceptions."
 tags = ["dharma", "philosophy"]
 +++
 
@@ -37,4 +37,4 @@ TODO: Also quote itthaṁ satāṁ brahmasukha...
 
 ---
 
-Missed the earlier parts? Read [Part 1](/post/is-hinduism-polytheistic-p1/) and [Part 2](/post/is-hinduism-polytheistic-p2/).
+Missed the earlier parts? Read [Part 1](/post/is-hinduism-polytheistic-p1/), [Part 2: Scripture and the conceptual sophistication of divine supremacy](/post/is-hinduism-polytheistic-p2/).
