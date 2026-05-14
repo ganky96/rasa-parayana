@@ -25,6 +25,12 @@ pagerSize = 10
     url        = '/post/'
     weight     = 10
 
+  [[menu.main]]
+    identifier = 'community'
+    name       = 'Community'
+    url        = '/community/'
+    weight     = 20
+
 [taxonomies]
   tag      = 'tags'
   category = 'categories'
