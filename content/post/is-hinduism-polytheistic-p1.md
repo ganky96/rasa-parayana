@@ -116,10 +116,12 @@ na tat-samaś cābhyadhikaś ca dṛśyate \
 parāsya śaktir vividhaiva śrūyate \
 svābhāvikī jñāna-bala-kriyā ca 
 
-The Supreme Lord is the controller of all other controllers, and He is the greatest of all the diverse planetary leaders. Everyone is under His control. All entities are delegated with particular power only by the Supreme Lord; they are not supreme themselves. He is also worshipable by all demigods and is the supreme director of all directors. Therefore, He is transcendental to all kinds of material leaders and controllers and is worshipable by all. There is no one greater than Him, and He is the supreme cause of all causes.
+**Translation**\
+“The Supreme Lord is the controller of all other controllers, and He is the greatest of all the diverse planetary leaders. Everyone is under His control. All entities are delegated with particular power only by the Supreme Lord; they are not supreme themselves. He is also worshipable by all demigods and is the supreme director of all directors. Therefore, He is transcendental to all kinds of material leaders and controllers and is worshipable by all. There is no one greater than Him, and He is the supreme cause of all causes.
 
 “He does not possess a bodily form like that of an ordinary living entity. There is no difference between His body and His soul. He is absolute. All His senses are transcendental. Any one of His senses can perform the action of any other sense. Therefore, no one is greater than Him or equal to Him. His potencies are multifarious, and thus His deeds are automatically performed as a natural sequence.”
 
+In these two beautiful verses in the **triṣṭubh** meter we find repeated assertions of the existence of a Supreme divinity amongst other divinities, a Supreme controller amongst other controllers, etc. Further still, we find that the Supreme divinity is described as having multifarious energies, such as the ability to create, to have strength and to have knowledge, i.e. the Supreme Divinity is inherently variegated, not a monistic monolith of consciousness. 
 
 #### Īśopaniṣad {#isopanishad}
 
