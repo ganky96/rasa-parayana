@@ -16,7 +16,7 @@ tags = ["dharma", "philosophy"]
   - [As The Source of All Other Forms of God](#source-other-forms)
   - [As He Whom The World Is A Reflection Of](#world-reflection)
   - [Sat, Cit, Ānanda](#sat-cit-ananda)
-- [Where Vedāntic Monotheism Completely Outshines Other Monotheisms](/post/is-hinduism-polytheistic-p3/) (Part 3)
+- [Where Vedāntic Monotheism Surpasses & Transcends Other Monotheisms](/post/is-hinduism-polytheistic-p3/) (Part 3)
 
 ---
 
@@ -110,8 +110,8 @@ Cit refers to the source of all consciousness and awareness, the lens through wh
 
 Ānanda is the fullness of experience, as is sought by living entities and completely experienced by the Supreme. 
 
-### Where Vedāntic Monotheism Completely Outshines Other Monotheisms {#vedantic-outshines}
-Please see [Part 3: Where Vedāntic Monotheism Completely Outshines Other Monotheisms](/post/is-hinduism-polytheistic-p3/).
+### Where Vedāntic Monotheism Surpasses & Transcends Other Monotheisms {#vedantic-outshines}
+Please see [Part 3: Where Vedāntic Monotheism Surpasses & Transcends Other Monotheisms](/post/is-hinduism-polytheistic-p3/).
 
 ---
 

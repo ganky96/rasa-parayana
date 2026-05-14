@@ -1,8 +1,8 @@
 +++
-title = "Where Vedāntic Monotheism Completely Outshines Other Monotheisms | Is Hinduism polytheistic? (3/3)"
+title = "Where Vedāntic Monotheism Surpasses & Transcends Other Monotheisms | Is Hinduism polytheistic? (3/3)"
 date = 2026-05-10
 draft = false
-description = "Where Vedāntic monotheism exceeds other monotheistic conceptions."
+description = "Where Vedāntic monotheism surpasses and transcends other monotheistic conceptions."
 tags = ["dharma", "philosophy"]
 +++
 
