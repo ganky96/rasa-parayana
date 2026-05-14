@@ -6,6 +6,20 @@ description = "A short note on devas, Brahman, and why labels like polytheism of
 tags = ["dharma", "philosophy"]
 +++
 
+**Contents**
+
+- [What does it mean for a God to be Supreme?](#what-supreme)
+- [Does Scripture Speak of a Supreme God?](#scripture-supreme)
+  - [Ṛg Veda (1.22.20)](#rig-veda)
+  - [Puruṣa Sūkta](#purusha-sukta)
+  - [Śvetāśvatara Upaniṣad 6.7–8](#shvetashvatara)
+  - [Īśopaniṣad](#isopanishad)
+  - [Bhagavad-gītā](#bhagavad-gita)
+  - [Viṣṇu Sahasranāma](#vishnu-sahasranama)
+- [How deep was the understanding of a Supreme God?](/post/is-hinduism-polytheistic-p2/) (Part 2)
+
+---
+
 Recently, I've been coming across some passionate Hindus on social media who are convinced that Vaiṣṇava institutions such as ISKCON are teaching an "Abrahamic" form of Hinduism, largely due to their emphasis on monotheism. They claim that Hinduism, in allowing plurality of beliefs, was also inherently polytheistic, and that any assertion of a supreme deity was equivalent to an imperial, Abrahamic imposition on Hinduism. Their words carry an air of indignation, resignation, and of wanting to check the influence of such corrupting ideas.
 
 I want to reproduce some of what I've seen below:
@@ -24,7 +38,7 @@ Far from the claim that monotheism is an Abrahamic influence on Vedāntic tradit
 
 First, I want to explain what it means for a God to truly be Supreme. Then, I'll provide evidence of such a Supreme God (capital G) in the presence of other gods (lowercase g) across various Vedāntic texts. Thirdly, I want to showcase the purposeful use of terminology and the depth of theology in the terms used to describe the Supreme in Vedāntic texts. Lastly, I want to demonstrate how Vedāntic monotheism, specifically Vaiṣṇava monotheism, is unparalleled in all of history, going far beyond what any other tradition has to offer. No other religious system, including the Abrahamic traditions, comes close to the sheer aesthetic beauty and depth to which the Vaiṣṇava traditions develop monotheism. 
 
-### What does it mean for a God to be Supreme?
+### What does it mean for a God to be Supreme? {#what-supreme}
 I often ask people if they believe in God. Some say they do, and to them I ask, "why?" Their response is often along the lines of, "There's so much complexity and beauty in the world, how can someone not have designed all of it?"
 
 There's no good or bad argument for belief in God (provided the belief is helpful). However, an intelligent designer is not necessarily a Supreme God, since the presence of design only entails that the designer exists. Design does not entail that the designer be a Supreme Godhead, or even be more complex than the design itself. A Supreme Godhead has unique characteristics that cannot be attributed to any other being.
@@ -47,7 +61,7 @@ Arguments from contingency do well to point to an original, necessary being that
 
 Nevertheless, a Supreme God fits perfectly as a necessary being, as God by definition is the being due to whom existence itself exists, and hence is the cause of the existence of all other things. While it may be difficult to prove ex nihilo that a Supreme God must exist using argumentation alone, revelation of the existence of a Supreme God who is the cause of all causes easily solves this issue.
 
-### Does Scripture Speak of a Supreme God?
+### Does Scripture Speak of a Supreme God? {#scripture-supreme}
 Ignorant and unresearched Hindus may find it borderline conspiratorial that all of the major Vedāntic texts speak very clearly and consistently about a Supreme God. 
 
 What is especially interesting is that the Vedāntic traditions define the Supreme Lord with very distinct and consistent features:
@@ -59,7 +73,7 @@ What is especially interesting is that the Vedāntic traditions define the Supre
 
 I want to stress that there are so many such proclamations that if I were to recite all of them, it would take me at least 3 hours. There are countless verses across śāstra that describe very precisely the existence and characteristics of the Supreme Lord.
 
-#### Ṛg Veda (1.22.20): 
+#### Ṛg Veda (1.22.20) {#rig-veda}
 
 oṃ tad viṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ | \
 divīva cakṣurātatam ||
@@ -69,7 +83,7 @@ The wise and enlightened seers constantly behold that supreme abode of Viṣṇu
 
 Although the import of this text is quite deep, poetic and interesting, I won't elaborate too much here since the meaning of the text is very clear as far as our topic at hand is concerned.
 
-#### Puruṣa Sūkta 
+#### Puruṣa Sūkta {#purusha-sukta}
 
 sahasra-śīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt | \
 sa bhūmiṃ viśvato vṛtvātyatiṣṭhad-daśāṅgulam || 
@@ -91,7 +105,7 @@ Further to this, in presenting the oneness and difference of the Lord and the wo
 
 The puruṣa-sūkta thus mirrors the teachings of Kṛṣṇa in the Bhagavad-gītā (9.4-5) by showing how the Lord is in this world, beyond this world, and also different from the world. 
 
-#### Śvetāśvatara Upaniṣad 6.7–8:
+#### Śvetāśvatara Upaniṣad 6.7–8 {#shvetashvatara}
 
 tam īśvarāṇāṁ paramaṁ maheśvaraṁ \
 taṁ devatānāṁ paramaṁ ca daivatam \
@@ -107,7 +121,7 @@ The Supreme Lord is the controller of all other controllers, and He is the great
 “He does not possess a bodily form like that of an ordinary living entity. There is no difference between His body and His soul. He is absolute. All His senses are transcendental. Any one of His senses can perform the action of any other sense. Therefore, no one is greater than Him or equal to Him. His potencies are multifarious, and thus His deeds are automatically performed as a natural sequence.”
 
 
-#### Īśopaniṣad
+#### Īśopaniṣad {#isopanishad}
 
 oṁ pūrṇam adaḥ pūrṇam idaṁ\
 pūrṇāt pūrṇam udacyate\
@@ -127,7 +141,7 @@ mā gṛdhaḥ kasya svid dhanam
 
 The depth of this verse relies on the īśa being the Supreme, otherwise the remaining assertion doesn't work. Everything animate and inanimate _cannot_ be under the control of a non-Supreme entity, since that entity would be a part of the set of animate and inanimate entities. 
 
-#### Bhagavad-gītā
+#### Bhagavad-gītā {#bhagavad-gita}
 
 There are too many texts in the Gītā that showcase the absolute Supremacy of Kṛṣṇa. Hence I will only quote a few here:
 
@@ -163,7 +177,7 @@ In fact, since we are quoting Bhaktivedānta Svāmī's translations here, let me
 >
 > Lord Kṛṣṇa is the source of all generations, and He is called the most efficient cause of everything. He says, “Because everything is born of Me, I am the original source of all. Everything is under Me; no one is above Me.” There is no supreme controller other than Kṛṣṇa. One who understands Kṛṣṇa in such a way from a bona fide spiritual master, with references from Vedic literature, engages all his energy in Kṛṣṇa consciousness and becomes a truly learned man. In comparison to him, all others, who do not know Kṛṣṇa properly, are but fools. Only a fool would consider Kṛṣṇa to be an ordinary man.
 
-#### Viṣṇu Sahasranāma
+#### Viṣṇu Sahasranāma {#vishnu-sahasranama}
 
 The entirety of the Viṣṇu Sahasranāma is centered on Viṣṇu being the Supreme. Śrī Bhakti Vikāsa Svāmī has a large and elaborate YouTube series on the Viṣṇu Sahasranāma names, in which he describes what each name means.
 

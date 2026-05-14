@@ -6,9 +6,22 @@ description = "A short note on devas, Brahman, and why labels like polytheism of
 tags = ["dharma", "philosophy"]
 +++
 
-### How deep was the understanding of a Supreme God?
+**Contents**
 
-#### As The Cause of All Causes
+- [How deep was the understanding of a Supreme God?](#how-deep)
+  - [As The Cause of All Causes](#cause-of-all-causes)
+  - [As The Source of Existence](#source-of-existence)
+  - [As Time Itself](#time-itself)
+  - [As The Original Being](#original-being)
+  - [As The Source of All Other Forms of God](#source-other-forms)
+  - [As He Whom The World Is A Reflection Of](#world-reflection)
+- [Where Vedāntic Monotheism Completely Outshines Other Monotheisms](/post/is-hinduism-polytheistic-p3/) (Part 3)
+
+---
+
+### How deep was the understanding of a Supreme God? {#how-deep}
+
+#### As The Cause of All Causes {#cause-of-all-causes}
 
 Gajendra prays:\
 namo namaste 'khila-kāraṇāya niṣkāraṇāyādbhuta-kāraṇāya |\
@@ -19,7 +32,7 @@ sarvāgamāmnāya-mahārṇavāya namo 'pavargāya parāyaṇāya || (ŚB 8.3.15
 
 A demiurge (or a secondary creator) is a caused cause; they are appointed or created by a higher power to fashion the material world. By using the term niṣkāraṇāya (the causeless), this description identifies a Being who sits outside the chain of causality. It establishes a "Prime Mover" logic: if God had a cause, He would be a secondary product. Only the Supreme is the akhila-kāraṇāya (cause of absolutely everything) while remaining independent.
 
-#### As The Source of Existence
+#### As The Source of Existence {#source-of-existence}
 oṃ namo bhagavate vāsudevāya | janmādy asya yato 'nvayād itarataś cārtheṣv abhijñaḥ svarāṭ... (ŚB 1.1.1)
 
 **Translation**
@@ -33,7 +46,7 @@ The verse ends with "satyaṁ paraṁ dhīmahi" - let us meditate upon the Absol
 
 The first text of the Śrīmad Bhāgavatam is a rich exploration of the Supreme Godhood of Vāsudeva as He who binds the aphorisms of Vedānta together, and that deserves its own article.
 
-#### As Time Itself
+#### As Time Itself {#time-itself}
 manye tvāṃ kālam īśānam anādi-nidhānaṃ vibhum |\
 samaṃ carantaṃ sarvatra bhūtānāṃ yan mithaḥ kaliḥ || (ŚB 1.8.28)
 
@@ -42,7 +55,7 @@ samaṃ carantaṃ sarvatra bhūtānāṃ yan mithaḥ kaliḥ || (ŚB 1.8.28)
 
 Demiurges and celestial beings are subject to time; they have long lifespans, but they eventually perish. Kuntī Devī identifies the Supreme as anādi-nidhanam (without beginning or end) and explicitly as Kāla (Time) itself. This shows He is not a being within the timeline, but the force that moves the timeline.
 
-#### As The Original Being
+#### As The Original Being {#original-being}
 
 īśvaraḥ paramaḥ kṛṣṇaḥ sac-cid-ānanda-vigrahaḥ |\
 anādir ādir govindaḥ sarva-kāraṇa-kāraṇam || (Brahma-saṁhitā 5.1)
@@ -52,7 +65,7 @@ anādir ādir govindaḥ sarva-kāraṇa-kāraṇam || (Brahma-saṁhitā 5.1)
 
 This is perhaps the most elegant description of the primordial nature of Kṛṣṇa's existence. The text uses the phrase anādir ādir—the origin who has no origin. A demiurge is an "ādi" (a beginning) for a specific universe, but he is not "anādi" (without beginning). This paradox precisely isolates the Absolute: the one point in the hierarchy where the "source" stops being a "result."
 
-#### As The Source of All Other Forms of God
+#### As The Source of All Other Forms of God {#source-other-forms}
 namo ’stu ’nantāya sahasra-mūrtaye sahasra-pādākṣi-śiroru-bāhave |\
 sahasra-nāmne puruṣāya śāśvate sahasra-koṭī-yuga-dhāriṇe namaḥ || (Vāmana Purāṇa / Prayers to Viṣṇu)
 
@@ -61,7 +74,7 @@ sahasra-nāmne puruṣāya śāśvate sahasra-koṭī-yuga-dhāriṇe namaḥ ||
 
 While a demiurge has one specific form and function (like creation), this description highlights Ananta (Infinity). It describes the sahasra-mūrtaye—the source of all incarnations. It indicates that all other "gods" or manifestations are merely subsets or "limbs" of this one Original Person (Puruṣa).
 
-#### As He Whom The World Is A Reflection Of
+#### As He Whom The World Is A Reflection Of {#world-reflection}
 
 Śrī Gajendra prays:\
 sarvendriya-guṇa-draṣṭre sarva-pratyaya-hetave |\
@@ -86,7 +99,7 @@ The term Sad-ābhāsāya means He is the source of the Sat (existence) found in 
 
 A shadow has the shape of the object but none of its substance. If you try to embrace a shadow, you feel nothing. Similarly, the material world has the "shape" of spiritual reality (it has relationships, beauty, and activity), but it is reflected upside down in the desire of the living entity. In the spiritual world the living entity desires to serve, and in the material world the living entity is self serving. 
 
-### Where Vedāntic Monotheism Completely Outshines Other Monotheisms
+### Where Vedāntic Monotheism Completely Outshines Other Monotheisms {#vedantic-outshines}
 Please see [Part 3](/post/is-hinduism-polytheistic-p3/).
 
 ---

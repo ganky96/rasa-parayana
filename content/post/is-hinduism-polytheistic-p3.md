@@ -6,7 +6,14 @@ description = "A short note on devas, Brahman, and why labels like polytheism of
 tags = ["dharma", "philosophy"]
 +++
 
-#### Sat, Cit, Ānanda
+**Contents**
+
+- [Sat, Cit, Ānanda](#sat-cit-ananda)
+- [Vaiṣṇavism provides the highest conception of Monotheistic theology](#vaishnavism-highest)
+
+---
+
+#### Sat, Cit, Ānanda {#sat-cit-ananda}
 The use of the words sat, cit, and ānanda clearly defines the essential features of divinity, in a way that captures what makes divinity the source of all that is in this world.
 
 Sat refers to the cause of all causes, and the basis of all existence.
@@ -15,7 +22,7 @@ Cit refers to the source of all consciousness and awareness, the lens through wh
 
 Ānanda is the fullness of experience, as is sought by living entities and completely experienced by the Supreme. 
 
-### Vaiṣṇavism provides the highest conception of Monotheistic theology
+### Vaiṣṇavism provides the highest conception of Monotheistic theology {#vaishnavism-highest}
 
 All other descriptions of a Supreme Lord are lost in His Grandeur, and in His inconceivable relationship with the temporary mortal world.
 
