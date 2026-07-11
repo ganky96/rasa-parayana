@@ -2,6 +2,7 @@
 title = "16 rounds into GG no re"
 cover = "/img/gretch-michael.jpg"
 coverCaption = "Marital fighting between Gretchen and Michael"
+images = ["/img/gretch-michael.jpg"]
 date = 2026-07-11
 draft = false
 +++
