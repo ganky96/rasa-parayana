@@ -1,5 +1,5 @@
 +++
-title = "16 rounds into GG"
+title = "16 rounds into GG no re"
 date = 2026-07-11
 draft = false
 +++
@@ -22,28 +22,43 @@ In the first 6 chapters of the Gītā there is a repeated tussle between the pat
 
 In other words, karma-yoga is recommended for the wordly person attempting to tread towards to the spiritual, and jñāna-yoga is meant for the advanced practitioner who has truly renounced worldy desires.
 
-As Vaiṣṇavas, we liken the nature of karma-yoga to living as we would "in the world": working, having a family, raising children, and so on; and jñāna-yoga to being a devotee deep in bhajana-sādhana, i.e. during chanting, or being on parikramā in the dhāma, etc.
+As Vaiṣṇavas, we liken the nature of karma-yoga to the practice of bhakti "in the world": working, having a family, raising children, and so on; and jñāna-yoga to being a devotee deep in bhajana-sādhana, i.e. during chanting, or being on parikramā in the dhāma, etc.
 
-Thus, we find that the qualifications of and advice for engaging in both kinds of yogas have great parallels to the two-fold realms of the practice of bhakti. That is to say, if our senses are strongly drawn towards worldly things, then overcommitting to practices and lifestyles that require vairāgya (detachment and letting go of worldly things) can serve to harm our practice. Similarly, if we commit too little to overcoming our worldly tendencies, we may find ourselves entrapped too strongly in the things of this world, and the taste and experience of bhakti doesn't wash over us. 
+Thus, we find that the qualifications of and advice for engaging in both kinds of yogas have great parallels to the two-fold realms of the practice of bhakti. That is to say, if our senses are strongly drawn towards worldly things, then overcommitting to practices and lifestyles that require vairāgya (detachment and letting go of worldly things) can serve to harm our practice, our mental health, relationships, and so on (nigrahaḥ kiṁ kariṣyati - "what can repression accomplish?"). Similarly, if we commit too little to overcoming our worldly tendencies, we may find ourselves entrapped too strongly in the things of this world, and the taste and experience of bhakti doesn't wash over us (bhogaiśvarya-prasaktānāṁ ... vyavasāyātmikā buddhiḥ
+samādhau na vidhīyate). 
 
-One of the great advantages of practicing bhakti in the world, and that which differentiates bhakti from karma-yoga, is that the effort and commitment of performing our worldly duties can be offered to Kṛṣṇa. Hence, they also count as part of our sādhana rather than against it. More importantly, committing to those duties allows us to grow in ways that creates the right attitude for practising Kṛṣṇa Consciousness intensely. 
+One of the great advantages of practicing bhakti in the world, and that which differentiates bhakti from karma-yoga, is that the effort and commitment of performing our worldly duties can be offered to Kṛṣṇa (iti puṁsārpitā viṣṇau
+bhaktiś cen nava-lakṣaṇā). Hence, they also count as part of our sādhana rather than against it. More importantly, committing to those duties allows us to grow in ways that creates the right attitude for practising Kṛṣṇa Consciousness intensely. 
 
-For instance, having and raising kids takes an incredible amount of effort, sacrifice, patience, and so on. Raising kids well forces us to let go of our desires and seeing ourselves as the center of the world, and forces us to learn to serve someone other than us - our children - through our attachment. Parents often note that all of their time is spent on raising kids, and that they have no time left to work on themselves. 
+For instance, having and raising kids takes an incredible amount of effort, sacrifice, patience, and so on. Raising kids well forces us to let go of our desires and seeing ourselves as the center of the world, and forces us to learn to serve someone other than us - our children - through our attachment. Parents often note that all of their time is spent on raising kids, and that they have no time left for themselves to create a kama-sankalpa (leading, slowly, to yasya sarve samārambhāḥ kāma-saṅkalpa-varjitāḥ). 
 
-Over time as devotees move into retired life, they find that the intensity with which they served their children translates so readily into the intensity of their practice of bhakti. Committing to their duties, while simultaneously practicing bhakti, allows them to grow in a way that purifies their self-serving tendencies. 
+Over time as devotees move into retired life, they find that the intensity with which they served their children translates so readily into the intensity of their practice of bhakti. Committing to their duties, while simultaneously practicing bhakti, allows them to grow in a way that purifies their self-serving tendencies (jñānāgni-dagdha-karmāṇaṁ tam āhuḥ paṇḍitaṁ budhāḥ). 
 
-Thus, for devotees who aren't yet ready to let the material world go and completely enter into a solitary bhajana-focused lifestyle, the duties and responsibilities of the gṛhastha-āśrama actually serve as grounding in the practice of Kṛṣṇa Consciousness.
+Thus, for devotees who aren't yet ready to let the material world go and completely enter into a solitary bhajana-focused lifestyle, the duties and responsibilities of the gṛhastha-āśrama actually serve as a much needed grounding in the practice of Kṛṣṇa Consciousness.
 
-The first six chapters teach the prospective and practising vaiṣṇava sādhaka that self realisation is about realising who _they_ are, starting by identifying what _their_ needs are, and once met, what is the next step that they can take in their spiritual life. When approached in this way, spiritual life feels natural, inspiring, and nourishing. If, however, a sādhaka misjudges one's position - thinking themselves more advanced than they really are - they may subscribe to a sādhana that may not meet their needs. This often happens in an institution where a certain standard of spiritual practice is glorified - 32 rounds, wake up at 4 am, refrain from movies, newspapers. For someone who is ready for that level of commitment, this sādhana is deeply inspiring and creates a lot of growth. For someone who isn't ready for it, this sādhana will create isolation, an empty heart, and over time, spiritual fatigue. Similarly, if we overinvest in our material comforts, thinking they are essential material needs, we will be lost trying to seek that happiness, contentment and direction for which we are always anxious. Over time this will also lead to feeling spiritually uninspired.
+The first six chapters teach the prospective and practising vaiṣṇava sādhaka that self realisation is about realising who _they_ are, starting by identifying what _their_ needs are, and once met, identifying the next step in their spiritual life. When approached in this way, spiritual life feels natural, inspiring, and nourishing. If, however, a sādhaka misjudges one's position - thinking themselves more advanced than they really are - they may subscribe to a sādhana that may not meet their needs. This often happens in an institution where a certain standard of spiritual practice is glorified - 32 rounds, wake up at 4 am, refrain from movies, newspapers, and the company of anyone not similarly committed to their spiritual goals. For someone who is ready for that level of commitment, this sādhana is deeply inspiring and creates a lot of growth. For someone who isn't ready for it, this sādhana will create isolation, an empty heart, and over time, spiritual fatigue (16 rounds into `GG no re`). Similarly, if we overinvest in our material comforts, thinking they are essential material needs, we will be lost trying to seek that happiness, contentment and direction for which we are always anxious. Over time this will also lead to feeling spiritually uninspired.
 
-The ultimate purpose of accomodating for our material needs is to ensure that a stable sādhana is maintained. 
+The ultimate purpose of accomodating for our material needs is to **ensure that a stable bhakti sādhana is maintained**. 
 
-I therefore usually recommend to devotees who are young, or those who are adventurous / curious (or both) to go hard - chant 16 rounds of the Hare Kṛṣṇa mahā-mantra everyday, preferrably in the morning. Abstain strictly from the four pillars of adharma - intoxication, illicit sex, gambling, and eating food that cannot be yajña-śiṣṭa (accepted by Kṛṣṇa). Associate only with devotees, and be very mindful of which ideas are entering your consciousness. Deeply read and study the bhakti-śāstras, and in this way burn in the blissful fire of bhakti. Do this for a year or two and really taste it.
+I therefore usually recommend to devotees who are young, or those who are adventurous, curious, or both, to go **hard**:
+- Chant 16 rounds of the Hare Kṛṣṇa mahā-mantra everyday, preferrably in the morning
+- Abstain strictly from the four pillars of adharma - intoxication, illicit sex, gambling, and eating food that cannot be yajña-śiṣṭa (accepted by Kṛṣṇa)
+- Associate only with devotees, particularly those who embody the qualities and motivations of serious vaishnavas
+- Be very mindful of which ideas you are allowing into your consciousness
+- Deeply read, study and understand the bhakti-śāstras, and in this way burn brightly in the blissful fire of bhakti. 
 
-And once you've done so, you now have a gauge, a metric. You may find you want to keep doing this for the rest of your life, or perhaps you want to go harder. Or you want to go slower. These are important realisations to have. 
+Do this for a year or two and really taste it.
 
-Finally, regulation never comes from within, it always comes externally. Thus, approach a qualified guru who can guide you on your spiritual path. Get them to approve whatever sādhana you'd like to commit to for the rest of your life. 
+And once you've done so, you now have a gauge, a metric. You may find you want to keep doing this for the rest of your life, or perhaps you want to go harder. Or you want to go slower. These are important realisations to have. tyaktvā sva-dharmaṁ caraṇāmbujaṁ harer ... ko vārtha āpto ’bhajatāṁ sva-dharmataḥ.  
 
-In this way I think it is very possible to obtain a dynamic bhakti lifestyle that suits your needs according to where you are in life to take the next step in bhakti, and grow. 
+Finally, regulation never comes from within, it always comes externally. Thus, approach a qualified shiksha guru who can guide you on your spiritual path. Get them to approve a sādhana you'd like to commit to for the rest of your life. 
 
-In terms of the story we started with: Gretchen was well aware of her needs. She committd to her basic sādhana, she committed to the duties of material life and she not only saw their relationship with Kṛṣṇa, she didn't have a black and white view of the world. Thus, over time, she grew past whatever her worldly desires were as life went on. SHe was able to commit to a stronger practice later in life. Conversely for Michael, he misunderstood his own material needs. He tried to prioritise an idealistic, high-effort spiritual life for which he wasn't quite ready. He also did not understand how his worldly duties and responsibilities would help him grow, and how they were actually bhakti also when connected to Kṛṣṇa. Therefore he was simply serving his own mind, and over time his sādhana wasn't stable, as his motivation for bhakti swung with the currents of his mind. 
+In this way it is very possible to obtain a dynamic bhakti lifestyle that suits your needs, according to where you are in life, to take the next step in bhakti, and thus continue to fall in love with Krishna Consciousness without burning out. 
+
+Let us finish our analysis of the story we started with.
+
+Gretchen was well aware of her needs. She committd to her basic sādhana, she committed to the duties of material life and she not only saw their relationship with Kṛṣṇa, she didn't have a black and white view of the world. Thus, over time, she grew past whatever her worldly desires were as life went on. SHe was able to commit to a stronger practice later in life. 
+
+Conversely for Michael, he misunderstood his own material needs. He tried to prioritise an idealistic, high-effort spiritual life for which he wasn't quite ready. He also did not understand how his worldly duties and responsibilities would help him grow, and how they were actually bhakti also when connected to Kṛṣṇa. Therefore he was simply serving his own mind, and over time his sādhana wasn't stable, as his motivation for bhakti swung with the currents of his mind. 
+
+Harih om tat sat.
