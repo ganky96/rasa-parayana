@@ -2,6 +2,7 @@
 title = "Sanātana-dharma vs. Sanātanī"
 date = 2026-08-08
 draft = false
+toc = true
 description = "Why the Term 'Sanātanī' Robs the Soul of its Deepest Longing"
 tags = ["dharma", "philosophy", "hinduism"]
 +++
