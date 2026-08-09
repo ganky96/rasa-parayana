@@ -38,3 +38,41 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  notify-discord:
+    needs: deploy
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Notify Discord of new posts
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          NEW_POSTS=$(git diff --name-only --diff-filter=A HEAD~1 HEAD -- 'content/post/*.md' || true)
+          if [ -z "$NEW_POSTS" ]; then
+            echo "No new posts"
+            exit 0
+          fi
+
+          if [ -z "$DISCORD_WEBHOOK_URL" ]; then
+            echo "DISCORD_WEBHOOK_URL secret is not set"
+            exit 1
+          fi
+
+          for file in $NEW_POSTS; do
+            if grep -qE 'draft\s*=\s*true' "$file"; then
+              continue
+            fi
+
+            TITLE=$(grep -m1 -E '^title\s*=' "$file" | sed -E 's/^title\s*=\s*"?(.*?)"?$/\1/')
+            SLUG=$(basename "$file" .md)
+            URL="https://rasa-parayana.art/post/${SLUG}/"
+
+            curl -fsS -H "Content-Type: application/json" \
+              -d "{\"content\": \"New post: **${TITLE}**\\n${URL}\"}" \
+              "$DISCORD_WEBHOOK_URL"
+          done
